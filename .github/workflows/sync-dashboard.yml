@@ -1,0 +1,29 @@
+name: Sync dashboard from master
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 10 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Dad's dashboard
+        uses: actions/checkout@v6
+
+      - name: Download master dashboard
+        run: |
+          curl -L https://raw.githubusercontent.com/andykoni/nfl-dynasty-snapcounts/main/index.html -o index.html
+
+      - name: Commit dashboard changes
+        run: |
+          git config user.name "dashboard-sync"
+          git config user.email "actions@github.com"
+          git add index.html
+          git diff --cached --quiet || git commit -m "Sync dashboard from master"
+          git push
