@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 1,
-  "updated_at": "2026-09-15T09:15:18Z",
+  "updated_at": "2026-09-16T09:13:36Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -270,7 +270,7 @@
       "player": "Nik Bonitto",
       "position": "DE",
       "unit": "IDP",
-      "team": "",
+      "team": "DEN",
       "leagues": [
         "EGS PRO",
         "EGS SFX"
@@ -286,13 +286,24 @@
         }
       ],
       "pfr_id": "BoniNi00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
+      "snaps": 36,
+      "pct": 52.0,
+      "avg_3wk": 52.0,
+      "season_avg": 52.0,
       "delta": null,
       "trend": 0,
-      "history": []
+      "history": [
+        {
+          "week": 1,
+          "team": "DEN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 36,
+          "defense_pct": 52.0,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
     },
     {
       "player_id": "16213",
@@ -786,16 +797,11 @@
       "unit": "IDP",
       "team": "SF",
       "leagues": [
-        "EGS PRO",
-        "EGS SIM"
+        "EGS PRO"
       ],
       "status": [
         {
           "league": "EGS PRO",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SIM",
           "status": "ROSTER"
         }
       ],
@@ -963,64 +969,6 @@
           "st_pct": null
         }
       ]
-    },
-    {
-      "player_id": "17558",
-      "player": "CJ Allen",
-      "position": "LB",
-      "unit": "IDP",
-      "team": "",
-      "leagues": [
-        "EGS PRO"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "AlleCJ00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
-      "delta": null,
-      "trend": 0,
-      "history": []
-    },
-    {
-      "player_id": "17508",
-      "player": "Skyler Bell",
-      "position": "WR",
-      "unit": "Offense",
-      "team": "",
-      "leagues": [
-        "EGS PRO",
-        "EGS SFX",
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SFX",
-          "status": "ROSTER"
-        },
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "BellSk00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
-      "delta": null,
-      "trend": 0,
-      "history": []
     },
     {
       "player_id": "17580",
@@ -1382,6 +1330,46 @@
       "history": []
     },
     {
+      "player_id": "17627",
+      "player": "Matthew Hibner",
+      "position": "TE",
+      "unit": "Offense",
+      "team": "BAL",
+      "leagues": [
+        "EGS PRO",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "HibnMa00",
+      "snaps": 23,
+      "pct": 34.0,
+      "avg_3wk": 34.0,
+      "season_avg": 34.0,
+      "delta": null,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "BAL",
+          "offense_snaps": 23,
+          "offense_pct": 34.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 9,
+          "st_pct": 29.0
+        }
+      ]
+    },
+    {
       "player_id": "13146",
       "player": "James Conner",
       "position": "RB",
@@ -1497,30 +1485,6 @@
           "st_pct": 50.0
         }
       ]
-    },
-    {
-      "player_id": "17239",
-      "player": "R.J. Mickens",
-      "position": "S",
-      "unit": "IDP",
-      "team": "",
-      "leagues": [
-        "EGS PRO"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "TAXI_SQUAD"
-        }
-      ],
-      "pfr_id": "MickRJ00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
-      "delta": null,
-      "trend": 0,
-      "history": []
     },
     {
       "player_id": "17541",
@@ -1668,14 +1632,15 @@
       ]
     },
     {
-      "player_id": "17627",
-      "player": "Matthew Hibner",
-      "position": "TE",
+      "player_id": "17508",
+      "player": "Skyler Bell",
+      "position": "WR",
       "unit": "Offense",
-      "team": "BAL",
+      "team": "",
       "leagues": [
         "EGS PRO",
-        "EGS SFX"
+        "EGS SFX",
+        "MLS Dynasty League"
       ],
       "status": [
         {
@@ -1685,27 +1650,44 @@
         {
           "league": "EGS SFX",
           "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
         }
       ],
-      "pfr_id": "HibnMa00",
-      "snaps": 23,
-      "pct": 34.0,
-      "avg_3wk": 34.0,
-      "season_avg": 34.0,
+      "pfr_id": "BellSk00",
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
       "delta": null,
       "trend": 0,
-      "history": [
+      "history": []
+    },
+    {
+      "player_id": "17558",
+      "player": "CJ Allen",
+      "position": "LB",
+      "unit": "IDP",
+      "team": "",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
         {
-          "week": 1,
-          "team": "BAL",
-          "offense_snaps": 23,
-          "offense_pct": 34.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 9,
-          "st_pct": 29.0
+          "league": "EGS PRO",
+          "status": "TAXI_SQUAD"
         }
-      ]
+      ],
+      "pfr_id": "AlleCJ00",
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
     },
     {
       "player_id": "14225",
@@ -1993,41 +1975,6 @@
       ]
     },
     {
-      "player_id": "16660",
-      "player": "Darius Robinson",
-      "position": "DT",
-      "unit": "IDP",
-      "team": "ARI",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "RobiDa01",
-      "snaps": 19,
-      "pct": 35.0,
-      "avg_3wk": 35.0,
-      "season_avg": 35.0,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "ARI",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 19,
-          "defense_pct": 35.0,
-          "st_snaps": 2,
-          "st_pct": 8.0
-        }
-      ]
-    },
-    {
       "player_id": "16629",
       "player": "Roman Wilson",
       "position": "WR",
@@ -2107,7 +2054,7 @@
       "player": "Nick Bolton",
       "position": "LB",
       "unit": "IDP",
-      "team": "",
+      "team": "KC",
       "leagues": [
         "EGS SIM"
       ],
@@ -2118,20 +2065,31 @@
         }
       ],
       "pfr_id": "BoltNi00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
+      "snaps": 51,
+      "pct": 100.0,
+      "avg_3wk": 100.0,
+      "season_avg": 100.0,
       "delta": null,
       "trend": 0,
-      "history": []
+      "history": [
+        {
+          "week": 1,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 51,
+          "defense_pct": 100.0,
+          "st_snaps": 3,
+          "st_pct": 11.0
+        }
+      ]
     },
     {
       "player_id": "17049",
       "player": "Brashard Smith",
       "position": "RB",
       "unit": "Offense",
-      "team": "",
+      "team": "KC",
       "leagues": [
         "EGS SIM"
       ],
@@ -2142,13 +2100,24 @@
         }
       ],
       "pfr_id": "SmitBr09",
-      "snaps": null,
+      "snaps": 0,
       "pct": null,
       "avg_3wk": null,
       "season_avg": null,
       "delta": null,
       "trend": 0,
-      "history": []
+      "history": [
+        {
+          "week": 1,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 3,
+          "st_pct": 11.0
+        }
+      ]
     },
     {
       "player_id": "17109",
@@ -2509,7 +2478,7 @@
       "player": "Kenneth Walker III",
       "position": "RB",
       "unit": "Offense",
-      "team": "",
+      "team": "KC",
       "leagues": [
         "EGS SIM"
       ],
@@ -2520,13 +2489,24 @@
         }
       ],
       "pfr_id": "WalkKe00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
+      "snaps": 47,
+      "pct": 68.0,
+      "avg_3wk": 68.0,
+      "season_avg": 68.0,
       "delta": null,
       "trend": 0,
-      "history": []
+      "history": [
+        {
+          "week": 1,
+          "team": "KC",
+          "offense_snaps": 47,
+          "offense_pct": 68.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
     },
     {
       "player_id": "15681",
@@ -2603,7 +2583,7 @@
       "player": "Drue Tranquill",
       "position": "LB",
       "unit": "IDP",
-      "team": "",
+      "team": "KC",
       "leagues": [
         "EGS SIM",
         "EGS SFX"
@@ -2619,37 +2599,24 @@
         }
       ],
       "pfr_id": "TranDr00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
+      "snaps": 50,
+      "pct": 98.0,
+      "avg_3wk": 98.0,
+      "season_avg": 98.0,
       "delta": null,
       "trend": 0,
-      "history": []
-    },
-    {
-      "player_id": "15788",
-      "player": "Jalen Tolbert",
-      "position": "WR",
-      "unit": "Offense",
-      "team": "",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
+      "history": [
         {
-          "league": "EGS SIM",
-          "status": "ROSTER"
+          "week": 1,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 50,
+          "defense_pct": 98.0,
+          "st_snaps": 3,
+          "st_pct": 11.0
         }
-      ],
-      "pfr_id": "TolbJa00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
-      "delta": null,
-      "trend": 0,
-      "history": []
+      ]
     },
     {
       "player_id": "16572",
@@ -2896,75 +2863,11 @@
       ]
     },
     {
-      "player_id": "16595",
-      "player": "Audric Estime",
-      "position": "RB",
-      "unit": "Offense",
-      "team": "",
-      "leagues": [
-        "EGS SIM",
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        },
-        {
-          "league": "MLS Dynasty League",
-          "status": "INJURED_RESERVE"
-        }
-      ],
-      "pfr_id": "EstiAu00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
-      "delta": null,
-      "trend": 0,
-      "history": []
-    },
-    {
-      "player_id": "13294",
-      "player": "Samson Ebukam",
-      "position": "DE",
-      "unit": "IDP",
-      "team": "ATL",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "EbukSa00",
-      "snaps": 39,
-      "pct": 58.0,
-      "avg_3wk": 58.0,
-      "season_avg": 58.0,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "ATL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 39,
-          "defense_pct": 58.0,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
-    },
-    {
       "player_id": "17474",
       "player": "Emmett Johnson",
       "position": "RB",
       "unit": "Offense",
-      "team": "",
+      "team": "KC",
       "leagues": [
         "EGS SIM"
       ],
@@ -2975,13 +2878,24 @@
         }
       ],
       "pfr_id": "JohnEm01",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
+      "snaps": 25,
+      "pct": 36.0,
+      "avg_3wk": 36.0,
+      "season_avg": 36.0,
       "delta": null,
       "trend": 0,
-      "history": []
+      "history": [
+        {
+          "week": 1,
+          "team": "KC",
+          "offense_snaps": 25,
+          "offense_pct": 36.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 6,
+          "st_pct": 21.0
+        }
+      ]
     },
     {
       "player_id": "17503",
@@ -3243,6 +3157,35 @@
         }
       ],
       "pfr_id": "MoorTr02",
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "16595",
+      "player": "Audric Estime",
+      "position": "RB",
+      "unit": "Offense",
+      "team": "",
+      "leagues": [
+        "EGS SIM",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "pfr_id": "EstiAu00",
       "snaps": null,
       "pct": null,
       "avg_3wk": null,
@@ -4246,41 +4189,6 @@
       ]
     },
     {
-      "player_id": "14252",
-      "player": "Michael Jackson",
-      "position": "CB",
-      "unit": "IDP",
-      "team": "CAR",
-      "leagues": [
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS SFX",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "JackMi01",
-      "snaps": 75,
-      "pct": 100.0,
-      "avg_3wk": 100.0,
-      "season_avg": 100.0,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "CAR",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 75,
-          "defense_pct": 100.0,
-          "st_snaps": 9,
-          "st_pct": 24.0
-        }
-      ]
-    },
-    {
       "player_id": "14877",
       "player": "Chase Young",
       "position": "DE",
@@ -4696,7 +4604,7 @@
       "player": "Riley Moss",
       "position": "CB",
       "unit": "IDP",
-      "team": "",
+      "team": "DEN",
       "leagues": [
         "MLS Dynasty League"
       ],
@@ -4707,13 +4615,24 @@
         }
       ],
       "pfr_id": "MossRi00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
+      "snaps": 69,
+      "pct": 100.0,
+      "avg_3wk": 100.0,
+      "season_avg": 100.0,
       "delta": null,
       "trend": 0,
-      "history": []
+      "history": [
+        {
+          "week": 1,
+          "team": "DEN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 69,
+          "defense_pct": 100.0,
+          "st_snaps": 1,
+          "st_pct": 4.0
+        }
+      ]
     },
     {
       "player_id": "16672",
@@ -4965,7 +4884,7 @@
       "player": "Alohi Gilman",
       "position": "S",
       "unit": "IDP",
-      "team": "",
+      "team": "KC",
       "leagues": [
         "MLS Dynasty League"
       ],
@@ -4976,13 +4895,24 @@
         }
       ],
       "pfr_id": "GilmAl00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
+      "snaps": 51,
+      "pct": 100.0,
+      "avg_3wk": 100.0,
+      "season_avg": 100.0,
       "delta": null,
       "trend": 0,
-      "history": []
+      "history": [
+        {
+          "week": 1,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 51,
+          "defense_pct": 100.0,
+          "st_snaps": 1,
+          "st_pct": 4.0
+        }
+      ]
     },
     {
       "player_id": "17039",
@@ -5094,7 +5024,7 @@
       "player": "Mansoor Delane",
       "position": "CB",
       "unit": "IDP",
-      "team": "",
+      "team": "KC",
       "leagues": [
         "MLS Dynasty League"
       ],
@@ -5105,13 +5035,24 @@
         }
       ],
       "pfr_id": "DelaMa00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
+      "snaps": 3,
+      "pct": 6.0,
+      "avg_3wk": 6.0,
+      "season_avg": 6.0,
       "delta": null,
       "trend": 0,
-      "history": []
+      "history": [
+        {
+          "week": 1,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 3,
+          "defense_pct": 6.0,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
     },
     {
       "player_id": "17573",
