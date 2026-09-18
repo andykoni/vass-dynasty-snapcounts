@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 1,
-  "updated_at": "2026-09-17T09:13:35Z",
+  "updated_at": "2026-09-18T09:13:13Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -4548,6 +4548,41 @@
           "defense_pct": 86.0,
           "st_snaps": 13,
           "st_pct": 38.0
+        }
+      ]
+    },
+    {
+      "player_id": "17584",
+      "player": "Gabe Jacas",
+      "position": "DE",
+      "unit": "IDP",
+      "team": "NE",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "JacaGa00",
+      "snaps": 19,
+      "pct": 38.0,
+      "avg_3wk": 38.0,
+      "season_avg": 38.0,
+      "delta": null,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "NE",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 19,
+          "defense_pct": 38.0,
+          "st_snaps": 20,
+          "st_pct": 91.0
         }
       ]
     },
