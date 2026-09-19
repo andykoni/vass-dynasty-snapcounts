@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "week": 1,
-  "updated_at": "2026-09-18T09:13:13Z",
+  "week": 2,
+  "updated_at": "2026-09-19T09:12:52Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -26,17 +26,27 @@
         }
       ],
       "pfr_id": "GoffJa00",
-      "snaps": 77,
+      "snaps": 65,
       "pct": 100.0,
       "avg_3wk": 100.0,
       "season_avg": 100.0,
-      "delta": null,
+      "delta": 0.0,
       "trend": 0,
       "history": [
         {
           "week": 1,
           "team": "DET",
           "offense_snaps": 77,
+          "offense_pct": 100.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "DET",
+          "offense_snaps": 65,
           "offense_pct": 100.0,
           "defense_snaps": 0,
           "defense_pct": null,
@@ -326,18 +336,28 @@
         }
       ],
       "pfr_id": "KincDa00",
-      "snaps": 42,
-      "pct": 72.0,
-      "avg_3wk": 72.0,
-      "season_avg": 72.0,
-      "delta": null,
-      "trend": 0,
+      "snaps": 49,
+      "pct": 66.0,
+      "avg_3wk": 69.0,
+      "season_avg": 69.0,
+      "delta": -6.0,
+      "trend": -1,
       "history": [
         {
           "week": 1,
           "team": "BUF",
           "offense_snaps": 42,
           "offense_pct": 72.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "BUF",
+          "offense_snaps": 49,
+          "offense_pct": 66.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -771,11 +791,11 @@
         }
       ],
       "pfr_id": "GardCh00",
-      "snaps": 79,
+      "snaps": 65,
       "pct": 100.0,
       "avg_3wk": 100.0,
       "season_avg": 100.0,
-      "delta": null,
+      "delta": 0.0,
       "trend": 0,
       "history": [
         {
@@ -784,6 +804,16 @@
           "offense_snaps": 0,
           "offense_pct": null,
           "defense_snaps": 79,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "BUF",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 65,
           "defense_pct": 100.0,
           "st_snaps": 0,
           "st_pct": null
@@ -986,11 +1016,11 @@
         }
       ],
       "pfr_id": "RodrMa00",
-      "snaps": 20,
-      "pct": 22.0,
-      "avg_3wk": 22.0,
-      "season_avg": 22.0,
-      "delta": null,
+      "snaps": 15,
+      "pct": 20.0,
+      "avg_3wk": 21.0,
+      "season_avg": 21.0,
+      "delta": -2.0,
       "trend": 0,
       "history": [
         {
@@ -1002,6 +1032,16 @@
           "defense_pct": 22.0,
           "st_snaps": 19,
           "st_pct": 56.0
+        },
+        {
+          "week": 2,
+          "team": "DET",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 15,
+          "defense_pct": 20.0,
+          "st_snaps": 16,
+          "st_pct": 55.0
         }
       ]
     },
@@ -1061,18 +1101,28 @@
         }
       ],
       "pfr_id": "TeSlIs00",
-      "snaps": 52,
-      "pct": 68.0,
-      "avg_3wk": 68.0,
-      "season_avg": 68.0,
-      "delta": null,
-      "trend": 0,
+      "snaps": 49,
+      "pct": 75.0,
+      "avg_3wk": 71.5,
+      "season_avg": 71.5,
+      "delta": 7.0,
+      "trend": 1,
       "history": [
         {
           "week": 1,
           "team": "DET",
           "offense_snaps": 52,
           "offense_pct": 68.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "DET",
+          "offense_snaps": 49,
+          "offense_pct": 75.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -1277,11 +1327,16 @@
       "unit": "Offense",
       "team": "",
       "leagues": [
-        "EGS PRO"
+        "EGS PRO",
+        "EGS SIM"
       ],
       "status": [
         {
           "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
           "status": "ROSTER"
         }
       ],
@@ -4532,12 +4587,12 @@
         }
       ],
       "pfr_id": "BarnDe02",
-      "snaps": 77,
-      "pct": 86.0,
-      "avg_3wk": 86.0,
-      "season_avg": 86.0,
-      "delta": null,
-      "trend": 0,
+      "snaps": 74,
+      "pct": 100.0,
+      "avg_3wk": 93.0,
+      "season_avg": 93.0,
+      "delta": 14.0,
+      "trend": 1,
       "history": [
         {
           "week": 1,
@@ -4548,6 +4603,16 @@
           "defense_pct": 86.0,
           "st_snaps": 13,
           "st_pct": 38.0
+        },
+        {
+          "week": 2,
+          "team": "DET",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 74,
+          "defense_pct": 100.0,
+          "st_snaps": 8,
+          "st_pct": 28.0
         }
       ]
     },
