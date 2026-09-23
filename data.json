@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "updated_at": "2026-09-22T09:13:09Z",
+  "updated_at": "2026-09-23T09:13:10Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -166,12 +166,12 @@
         }
       ],
       "pfr_id": "BurnBr00",
-      "snaps": 49,
-      "pct": 84.0,
-      "avg_3wk": 84.0,
-      "season_avg": 84.0,
-      "delta": null,
-      "trend": 0,
+      "snaps": 42,
+      "pct": 68.0,
+      "avg_3wk": 76.0,
+      "season_avg": 76.0,
+      "delta": -16.0,
+      "trend": -1,
       "history": [
         {
           "week": 1,
@@ -182,6 +182,16 @@
           "defense_pct": 84.0,
           "st_snaps": 3,
           "st_pct": 16.0
+        },
+        {
+          "week": 2,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 42,
+          "defense_pct": 68.0,
+          "st_snaps": 5,
+          "st_pct": 21.0
         }
       ]
     },
@@ -1286,12 +1296,12 @@
         }
       ],
       "pfr_id": "FergTe00",
-      "snaps": 31,
-      "pct": 51.0,
-      "avg_3wk": 51.0,
-      "season_avg": 51.0,
-      "delta": null,
-      "trend": 0,
+      "snaps": 36,
+      "pct": 58.0,
+      "avg_3wk": 54.5,
+      "season_avg": 54.5,
+      "delta": 7.0,
+      "trend": 1,
       "history": [
         {
           "week": 1,
@@ -1302,6 +1312,16 @@
           "defense_pct": null,
           "st_snaps": 6,
           "st_pct": 30.0
+        },
+        {
+          "week": 2,
+          "team": "LA",
+          "offense_snaps": 36,
+          "offense_pct": 58.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 3,
+          "st_pct": 12.0
         }
       ]
     },
@@ -1685,18 +1705,28 @@
         }
       ],
       "pfr_id": "SingDe00",
-      "snaps": 25,
-      "pct": 36.0,
-      "avg_3wk": 36.0,
-      "season_avg": 36.0,
-      "delta": null,
-      "trend": 0,
+      "snaps": 15,
+      "pct": 26.0,
+      "avg_3wk": 31.0,
+      "season_avg": 31.0,
+      "delta": -10.0,
+      "trend": -1,
       "history": [
         {
           "week": 1,
           "team": "NYG",
           "offense_snaps": 25,
           "offense_pct": 36.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "NYG",
+          "offense_snaps": 15,
+          "offense_pct": 26.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -2281,12 +2311,12 @@
         }
       ],
       "pfr_id": "TurnKo00",
-      "snaps": 43,
-      "pct": 66.0,
-      "avg_3wk": 66.0,
-      "season_avg": 66.0,
-      "delta": null,
-      "trend": 0,
+      "snaps": 34,
+      "pct": 59.0,
+      "avg_3wk": 62.5,
+      "season_avg": 62.5,
+      "delta": -7.0,
+      "trend": -1,
       "history": [
         {
           "week": 1,
@@ -2297,6 +2327,16 @@
           "defense_pct": 66.0,
           "st_snaps": 1,
           "st_pct": 5.0
+        },
+        {
+          "week": 2,
+          "team": "LA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 34,
+          "defense_pct": 59.0,
+          "st_snaps": 2,
+          "st_pct": 8.0
         }
       ]
     },
@@ -4192,11 +4232,11 @@
         }
       ],
       "pfr_id": "YounBy01",
-      "snaps": 47,
-      "pct": 72.0,
-      "avg_3wk": 72.0,
-      "season_avg": 72.0,
-      "delta": null,
+      "snaps": 41,
+      "pct": 71.0,
+      "avg_3wk": 71.5,
+      "season_avg": 71.5,
+      "delta": -1.0,
       "trend": 0,
       "history": [
         {
@@ -4208,6 +4248,16 @@
           "defense_pct": 72.0,
           "st_snaps": 1,
           "st_pct": 5.0
+        },
+        {
+          "week": 2,
+          "team": "LA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 41,
+          "defense_pct": 71.0,
+          "st_snaps": 1,
+          "st_pct": 4.0
         }
       ]
     },
@@ -4232,12 +4282,12 @@
         }
       ],
       "pfr_id": "WillKy02",
-      "snaps": 39,
-      "pct": 64.0,
-      "avg_3wk": 64.0,
-      "season_avg": 64.0,
-      "delta": null,
-      "trend": 0,
+      "snaps": 34,
+      "pct": 55.0,
+      "avg_3wk": 59.5,
+      "season_avg": 59.5,
+      "delta": -9.0,
+      "trend": -1,
       "history": [
         {
           "week": 1,
@@ -4248,6 +4298,16 @@
           "defense_pct": null,
           "st_snaps": 0,
           "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "LA",
+          "offense_snaps": 34,
+          "offense_pct": 55.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 3,
+          "st_pct": 12.0
         }
       ]
     },
@@ -5002,11 +5062,11 @@
         }
       ],
       "pfr_id": "SkatCa00",
-      "snaps": 42,
-      "pct": 61.0,
-      "avg_3wk": 61.0,
-      "season_avg": 61.0,
-      "delta": null,
+      "snaps": 34,
+      "pct": 59.0,
+      "avg_3wk": 60.0,
+      "season_avg": 60.0,
+      "delta": -2.0,
       "trend": 0,
       "history": [
         {
@@ -5014,6 +5074,16 @@
           "team": "NYG",
           "offense_snaps": 42,
           "offense_pct": 61.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "NYG",
+          "offense_snaps": 34,
+          "offense_pct": 59.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -5066,12 +5136,12 @@
         }
       ],
       "pfr_id": "CurlKa00",
-      "snaps": 30,
-      "pct": 46.0,
-      "avg_3wk": 46.0,
-      "season_avg": 46.0,
-      "delta": null,
-      "trend": 0,
+      "snaps": 58,
+      "pct": 100.0,
+      "avg_3wk": 73.0,
+      "season_avg": 73.0,
+      "delta": 54.0,
+      "trend": 1,
       "history": [
         {
           "week": 1,
@@ -5082,6 +5152,16 @@
           "defense_pct": 46.0,
           "st_snaps": 1,
           "st_pct": 5.0
+        },
+        {
+          "week": 2,
+          "team": "LA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 58,
+          "defense_pct": 100.0,
+          "st_snaps": 1,
+          "st_pct": 4.0
         }
       ]
     },
