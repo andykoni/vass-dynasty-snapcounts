@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "updated_at": "2026-09-24T09:14:21Z",
+  "updated_at": "2026-09-25T09:13:47Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -1741,11 +1741,16 @@
       "unit": "IDP",
       "team": "NYG",
       "leagues": [
-        "EGS PRO"
+        "EGS PRO",
+        "EGS SIM"
       ],
       "status": [
         {
           "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
           "status": "ROSTER"
         }
       ],
@@ -4136,6 +4141,51 @@
           "defense_pct": 45.0,
           "st_snaps": 9,
           "st_pct": 38.0
+        }
+      ]
+    },
+    {
+      "player_id": "17162",
+      "player": "Justin Walley",
+      "position": "CB",
+      "unit": "IDP",
+      "team": "IND",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "WallJu00",
+      "snaps": 68,
+      "pct": 85.0,
+      "avg_3wk": 71.0,
+      "season_avg": 71.0,
+      "delta": 28.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 1,
+          "team": "IND",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 39,
+          "defense_pct": 57.0,
+          "st_snaps": 7,
+          "st_pct": 23.0
+        },
+        {
+          "week": 2,
+          "team": "IND",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 68,
+          "defense_pct": 85.0,
+          "st_snaps": 8,
+          "st_pct": 24.0
         }
       ]
     },
