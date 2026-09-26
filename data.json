@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "week": 2,
-  "updated_at": "2026-09-25T09:13:47Z",
+  "week": 3,
+  "updated_at": "2026-09-26T09:12:25Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -216,7 +216,7 @@
         }
       ],
       "pfr_id": "FranZa00",
-      "snaps": 74,
+      "snaps": 71,
       "pct": 100.0,
       "avg_3wk": 100.0,
       "season_avg": 100.0,
@@ -239,6 +239,16 @@
           "offense_snaps": 0,
           "offense_pct": null,
           "defense_snaps": 74,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "GB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 71,
           "defense_pct": 100.0,
           "st_snaps": 0,
           "st_pct": null
@@ -2316,7 +2326,7 @@
         }
       ],
       "pfr_id": "LoveJo03",
-      "snaps": 59,
+      "snaps": 66,
       "pct": 100.0,
       "avg_3wk": 100.0,
       "season_avg": 100.0,
@@ -2337,6 +2347,16 @@
           "week": 2,
           "team": "GB",
           "offense_snaps": 59,
+          "offense_pct": 100.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "GB",
+          "offense_snaps": 66,
           "offense_pct": 100.0,
           "defense_snaps": 0,
           "defense_pct": null,
@@ -3480,12 +3500,12 @@
         }
       ],
       "pfr_id": "BrooKa00",
-      "snaps": 50,
-      "pct": 68.0,
-      "avg_3wk": 62.5,
-      "season_avg": 62.5,
-      "delta": 11.0,
-      "trend": 1,
+      "snaps": 43,
+      "pct": 61.0,
+      "avg_3wk": 62.0,
+      "season_avg": 62.0,
+      "delta": -7.0,
+      "trend": -1,
       "history": [
         {
           "week": 1,
@@ -3506,6 +3526,16 @@
           "defense_pct": 68.0,
           "st_snaps": 14,
           "st_pct": 48.0
+        },
+        {
+          "week": 3,
+          "team": "GB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 43,
+          "defense_pct": 61.0,
+          "st_snaps": 11,
+          "st_pct": 44.0
         }
       ]
     },
@@ -5287,7 +5317,7 @@
       "player": "Michael Penix Jr.",
       "position": "QB",
       "unit": "Offense",
-      "team": "",
+      "team": "ATL",
       "leagues": [
         "EGS SFX",
         "MLS Dynasty League"
@@ -5303,13 +5333,24 @@
         }
       ],
       "pfr_id": "PeniMi00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
+      "snaps": 71,
+      "pct": 100.0,
+      "avg_3wk": 100.0,
+      "season_avg": 100.0,
       "delta": null,
       "trend": 0,
-      "history": []
+      "history": [
+        {
+          "week": 3,
+          "team": "ATL",
+          "offense_snaps": 71,
+          "offense_pct": 100.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
     },
     {
       "player_id": "15001",
@@ -5831,6 +5872,56 @@
       ]
     },
     {
+      "player_id": "17129",
+      "player": "Benjamin Morrison",
+      "position": "CB",
+      "unit": "IDP",
+      "team": "TB",
+      "leagues": [
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "MorrBe00",
+      "snaps": 58,
+      "pct": 100.0,
+      "avg_3wk": 83.5,
+      "season_avg": 83.5,
+      "delta": 33.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 1,
+          "team": "TB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 43,
+          "defense_pct": 67.0,
+          "st_snaps": 12,
+          "st_pct": 44.0
+        },
+        {
+          "week": 2,
+          "team": "TB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 58,
+          "defense_pct": 100.0,
+          "st_snaps": 9,
+          "st_pct": 30.0
+        }
+      ]
+    },
+    {
       "player_id": "17119",
       "player": "Nic Scourton",
       "position": "DE",
@@ -5905,12 +5996,12 @@
         }
       ],
       "pfr_id": "JohnKa03",
-      "snaps": 16,
-      "pct": 27.0,
-      "avg_3wk": 27.0,
-      "season_avg": 27.0,
-      "delta": null,
-      "trend": 0,
+      "snaps": 24,
+      "pct": 36.0,
+      "avg_3wk": 31.5,
+      "season_avg": 31.5,
+      "delta": 9.0,
+      "trend": 1,
       "history": [
         {
           "week": 1,
@@ -5931,6 +6022,16 @@
           "defense_pct": null,
           "st_snaps": 1,
           "st_pct": 3.0
+        },
+        {
+          "week": 3,
+          "team": "GB",
+          "offense_snaps": 24,
+          "offense_pct": 36.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
         }
       ]
     },
@@ -6686,51 +6787,6 @@
           "defense_pct": 57.0,
           "st_snaps": 3,
           "st_pct": 13.0
-        }
-      ]
-    },
-    {
-      "player_id": "17129",
-      "player": "Benjamin Morrison",
-      "position": "CB",
-      "unit": "IDP",
-      "team": "TB",
-      "leagues": [
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "MorrBe00",
-      "snaps": 58,
-      "pct": 100.0,
-      "avg_3wk": 83.5,
-      "season_avg": 83.5,
-      "delta": 33.0,
-      "trend": 1,
-      "history": [
-        {
-          "week": 1,
-          "team": "TB",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 43,
-          "defense_pct": 67.0,
-          "st_snaps": 12,
-          "st_pct": 44.0
-        },
-        {
-          "week": 2,
-          "team": "TB",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 58,
-          "defense_pct": 100.0,
-          "st_snaps": 9,
-          "st_pct": 30.0
         }
       ]
     }
