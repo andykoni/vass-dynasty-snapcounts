@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated_at": "2026-09-26T09:12:25Z",
+  "updated_at": "2026-09-27T09:12:37Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -4758,51 +4758,6 @@
       ]
     },
     {
-      "player_id": "15768",
-      "player": "Alec Pierce",
-      "position": "WR",
-      "unit": "Offense",
-      "team": "IND",
-      "leagues": [
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS SFX",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "PierAl00",
-      "snaps": 17,
-      "pct": 26.0,
-      "avg_3wk": 42.5,
-      "season_avg": 42.5,
-      "delta": -33.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "IND",
-          "offense_snaps": 32,
-          "offense_pct": 59.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "IND",
-          "offense_snaps": 17,
-          "offense_pct": 26.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
-    },
-    {
       "player_id": "15428",
       "player": "Jamien Sherwood",
       "position": "LB",
@@ -5977,6 +5932,51 @@
           "defense_pct": 4.0,
           "st_snaps": 14,
           "st_pct": 54.0
+        }
+      ]
+    },
+    {
+      "player_id": "15768",
+      "player": "Alec Pierce",
+      "position": "WR",
+      "unit": "Offense",
+      "team": "IND",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "pfr_id": "PierAl00",
+      "snaps": 17,
+      "pct": 26.0,
+      "avg_3wk": 42.5,
+      "season_avg": 42.5,
+      "delta": -33.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "IND",
+          "offense_snaps": 32,
+          "offense_pct": 59.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "IND",
+          "offense_snaps": 17,
+          "offense_pct": 26.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
         }
       ]
     },
