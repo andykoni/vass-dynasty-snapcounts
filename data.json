@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated_at": "2026-09-27T09:12:37Z",
+  "updated_at": "2026-09-28T09:16:18Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -1657,11 +1657,16 @@
       "team": "NE",
       "leagues": [
         "EGS PRO",
+        "EGS SFX",
         "MLS Dynasty League"
       ],
       "status": [
         {
           "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
           "status": "ROSTER"
         },
         {
