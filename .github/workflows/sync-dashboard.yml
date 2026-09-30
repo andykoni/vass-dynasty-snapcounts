@@ -1,5 +1,8 @@
 name: Sync dashboard from master
 
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:
   schedule:
