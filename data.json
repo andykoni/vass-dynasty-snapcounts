@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated_at": "2026-09-29T09:15:32Z",
+  "updated_at": "2026-09-30T09:14:08Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -175,61 +175,6 @@
           "offense_pct": 73.0,
           "defense_snaps": 0,
           "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
-    },
-    {
-      "player_id": "14171",
-      "player": "Brian Burns",
-      "position": "DE",
-      "unit": "IDP",
-      "team": "NYG",
-      "leagues": [
-        "EGS PRO"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "BurnBr00",
-      "snaps": 25,
-      "pct": 42.0,
-      "avg_3wk": 64.7,
-      "season_avg": 64.7,
-      "delta": -26.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "NYG",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 49,
-          "defense_pct": 84.0,
-          "st_snaps": 3,
-          "st_pct": 16.0
-        },
-        {
-          "week": 2,
-          "team": "NYG",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 42,
-          "defense_pct": 68.0,
-          "st_snaps": 5,
-          "st_pct": 21.0
-        },
-        {
-          "week": 3,
-          "team": "NYG",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 25,
-          "defense_pct": 42.0,
           "st_snaps": 0,
           "st_pct": null
         }
@@ -881,12 +826,12 @@
         }
       ],
       "pfr_id": "BurdLu00",
-      "snaps": 42,
-      "pct": 57.0,
-      "avg_3wk": 65.0,
-      "season_avg": 65.0,
-      "delta": -16.0,
-      "trend": -1,
+      "snaps": 44,
+      "pct": 61.0,
+      "avg_3wk": 63.7,
+      "season_avg": 63.7,
+      "delta": 4.0,
+      "trend": 0,
       "history": [
         {
           "week": 1,
@@ -903,6 +848,16 @@
           "team": "CHI",
           "offense_snaps": 42,
           "offense_pct": 57.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "CHI",
+          "offense_snaps": 44,
+          "offense_pct": 61.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -2307,6 +2262,61 @@
       ]
     },
     {
+      "player_id": "14171",
+      "player": "Brian Burns",
+      "position": "DE",
+      "unit": "IDP",
+      "team": "NYG",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "pfr_id": "BurnBr00",
+      "snaps": 25,
+      "pct": 42.0,
+      "avg_3wk": 64.7,
+      "season_avg": 64.7,
+      "delta": -26.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 49,
+          "defense_pct": 84.0,
+          "st_snaps": 3,
+          "st_pct": 16.0
+        },
+        {
+          "week": 2,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 42,
+          "defense_pct": 68.0,
+          "st_snaps": 5,
+          "st_pct": 21.0
+        },
+        {
+          "week": 3,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 25,
+          "defense_pct": 42.0,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
       "player_id": "17541",
       "player": "Barion Brown",
       "position": "WR",
@@ -2996,7 +3006,7 @@
         }
       ],
       "pfr_id": "MitcQu00",
-      "snaps": 53,
+      "snaps": 72,
       "pct": 100.0,
       "avg_3wk": 100.0,
       "season_avg": 100.0,
@@ -3019,6 +3029,16 @@
           "offense_snaps": 0,
           "offense_pct": null,
           "defense_snaps": 53,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "PHI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 72,
           "defense_pct": 100.0,
           "st_snaps": 0,
           "st_pct": null
@@ -3041,7 +3061,7 @@
         }
       ],
       "pfr_id": "DeJeCo00",
-      "snaps": 53,
+      "snaps": 72,
       "pct": 100.0,
       "avg_3wk": 100.0,
       "season_avg": 100.0,
@@ -3064,6 +3084,16 @@
           "offense_snaps": 0,
           "offense_pct": null,
           "defense_snaps": 53,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "PHI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 72,
           "defense_pct": 100.0,
           "st_snaps": 0,
           "st_pct": null
@@ -3531,12 +3561,12 @@
         }
       ],
       "pfr_id": "OjomMo00",
-      "snaps": 43,
-      "pct": 81.0,
-      "avg_3wk": 75.0,
-      "season_avg": 75.0,
-      "delta": 12.0,
-      "trend": 1,
+      "snaps": 39,
+      "pct": 54.0,
+      "avg_3wk": 68.0,
+      "season_avg": 68.0,
+      "delta": -27.0,
+      "trend": -1,
       "history": [
         {
           "week": 1,
@@ -3557,6 +3587,16 @@
           "defense_pct": 81.0,
           "st_snaps": 4,
           "st_pct": 17.0
+        },
+        {
+          "week": 3,
+          "team": "PHI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 39,
+          "defense_pct": 54.0,
+          "st_snaps": 5,
+          "st_pct": 26.0
         }
       ]
     },
@@ -4567,61 +4607,6 @@
           "defense_pct": 63.0,
           "st_snaps": 0,
           "st_pct": null
-        }
-      ]
-    },
-    {
-      "player_id": "13682",
-      "player": "Arden Key",
-      "position": "DE",
-      "unit": "IDP",
-      "team": "IND",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "KeyxAr00",
-      "snaps": 44,
-      "pct": 81.0,
-      "avg_3wk": 72.7,
-      "season_avg": 72.7,
-      "delta": 15.0,
-      "trend": 1,
-      "history": [
-        {
-          "week": 1,
-          "team": "IND",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 48,
-          "defense_pct": 71.0,
-          "st_snaps": 7,
-          "st_pct": 23.0
-        },
-        {
-          "week": 2,
-          "team": "IND",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 53,
-          "defense_pct": 66.0,
-          "st_snaps": 7,
-          "st_pct": 21.0
-        },
-        {
-          "week": 3,
-          "team": "IND",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 44,
-          "defense_pct": 81.0,
-          "st_snaps": 3,
-          "st_pct": 12.0
         }
       ]
     },
@@ -5759,12 +5744,12 @@
         }
       ],
       "pfr_id": "DaviJo03",
-      "snaps": 23,
-      "pct": 43.0,
-      "avg_3wk": 46.0,
-      "season_avg": 46.0,
-      "delta": -6.0,
-      "trend": -1,
+      "snaps": 42,
+      "pct": 58.0,
+      "avg_3wk": 50.0,
+      "season_avg": 50.0,
+      "delta": 15.0,
+      "trend": 1,
       "history": [
         {
           "week": 1,
@@ -5785,6 +5770,16 @@
           "defense_pct": 43.0,
           "st_snaps": 8,
           "st_pct": 35.0
+        },
+        {
+          "week": 3,
+          "team": "PHI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 42,
+          "defense_pct": 58.0,
+          "st_snaps": 6,
+          "st_pct": 32.0
         }
       ]
     },
@@ -6119,7 +6114,7 @@
         }
       ],
       "pfr_id": "ThieDi00",
-      "snaps": 52,
+      "snaps": 50,
       "pct": 100.0,
       "avg_3wk": 100.0,
       "season_avg": 100.0,
@@ -6145,6 +6140,16 @@
           "defense_pct": 100.0,
           "st_snaps": 5,
           "st_pct": 24.0
+        },
+        {
+          "week": 3,
+          "team": "CHI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 50,
+          "defense_pct": 100.0,
+          "st_snaps": 7,
+          "st_pct": 37.0
         }
       ]
     },
@@ -6419,12 +6424,12 @@
         }
       ],
       "pfr_id": "HuntJa02",
-      "snaps": 42,
-      "pct": 79.0,
-      "avg_3wk": 77.5,
-      "season_avg": 77.5,
-      "delta": 3.0,
-      "trend": 0,
+      "snaps": 53,
+      "pct": 74.0,
+      "avg_3wk": 76.3,
+      "season_avg": 76.3,
+      "delta": -5.0,
+      "trend": -1,
       "history": [
         {
           "week": 1,
@@ -6445,6 +6450,16 @@
           "defense_pct": 79.0,
           "st_snaps": 4,
           "st_pct": 17.0
+        },
+        {
+          "week": 3,
+          "team": "PHI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 53,
+          "defense_pct": 74.0,
+          "st_snaps": 5,
+          "st_pct": 26.0
         }
       ]
     },
@@ -6903,12 +6918,12 @@
         }
       ],
       "pfr_id": "KmetCo00",
-      "snaps": 51,
-      "pct": 69.0,
-      "avg_3wk": 63.0,
-      "season_avg": 63.0,
-      "delta": 12.0,
-      "trend": 1,
+      "snaps": 43,
+      "pct": 60.0,
+      "avg_3wk": 62.0,
+      "season_avg": 62.0,
+      "delta": -9.0,
+      "trend": -1,
       "history": [
         {
           "week": 1,
@@ -6929,6 +6944,16 @@
           "defense_pct": null,
           "st_snaps": 2,
           "st_pct": 10.0
+        },
+        {
+          "week": 3,
+          "team": "CHI",
+          "offense_snaps": 43,
+          "offense_pct": 60.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 5,
+          "st_pct": 26.0
         }
       ]
     },
@@ -7313,12 +7338,12 @@
         }
       ],
       "pfr_id": "SmitNo02",
-      "snaps": 41,
-      "pct": 77.0,
-      "avg_3wk": 72.0,
-      "season_avg": 72.0,
-      "delta": 10.0,
-      "trend": 1,
+      "snaps": 44,
+      "pct": 61.0,
+      "avg_3wk": 68.3,
+      "season_avg": 68.3,
+      "delta": -16.0,
+      "trend": -1,
       "history": [
         {
           "week": 1,
@@ -7337,6 +7362,16 @@
           "offense_pct": null,
           "defense_snaps": 41,
           "defense_pct": 77.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "PHI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 44,
+          "defense_pct": 61.0,
           "st_snaps": 0,
           "st_pct": null
         }
