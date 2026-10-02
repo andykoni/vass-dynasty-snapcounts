@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated_at": "2026-10-01T09:15:43Z",
+  "updated_at": "2026-10-02T09:15:12Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -1266,61 +1266,6 @@
       ]
     },
     {
-      "player_id": "17580",
-      "player": "Malachi Lawrence",
-      "position": "DE",
-      "unit": "IDP",
-      "team": "DAL",
-      "leagues": [
-        "EGS PRO"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "LawrMa01",
-      "snaps": 17,
-      "pct": 27.0,
-      "avg_3wk": 34.0,
-      "season_avg": 34.0,
-      "delta": -5.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "DAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 30,
-          "defense_pct": 43.0,
-          "st_snaps": 6,
-          "st_pct": 32.0
-        },
-        {
-          "week": 2,
-          "team": "DAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 23,
-          "defense_pct": 32.0,
-          "st_snaps": 6,
-          "st_pct": 22.0
-        },
-        {
-          "week": 3,
-          "team": "DAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 17,
-          "defense_pct": 27.0,
-          "st_snaps": 13,
-          "st_pct": 43.0
-        }
-      ]
-    },
-    {
       "player_id": "17107",
       "player": "Terrance Ferguson",
       "position": "TE",
@@ -1568,51 +1513,6 @@
       "delta": null,
       "trend": 0,
       "history": []
-    },
-    {
-      "player_id": "14080",
-      "player": "Devin Singletary",
-      "position": "RB",
-      "unit": "Offense",
-      "team": "NYG",
-      "leagues": [
-        "EGS PRO"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "SingDe00",
-      "snaps": 15,
-      "pct": 26.0,
-      "avg_3wk": 31.0,
-      "season_avg": 31.0,
-      "delta": -10.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "NYG",
-          "offense_snaps": 25,
-          "offense_pct": 36.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "NYG",
-          "offense_snaps": 15,
-          "offense_pct": 26.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
     },
     {
       "player_id": "14219",
@@ -2075,6 +1975,226 @@
       ]
     },
     {
+      "player_id": "16677",
+      "player": "Javon Bullard",
+      "position": "S",
+      "unit": "IDP",
+      "team": "GB",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "BullJa00",
+      "snaps": 46,
+      "pct": 65.0,
+      "avg_3wk": 65.0,
+      "season_avg": 65.0,
+      "delta": -11.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "GB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 35,
+          "defense_pct": 54.0,
+          "st_snaps": 1,
+          "st_pct": 3.0
+        },
+        {
+          "week": 2,
+          "team": "GB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 56,
+          "defense_pct": 76.0,
+          "st_snaps": 6,
+          "st_pct": 21.0
+        },
+        {
+          "week": 3,
+          "team": "GB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 46,
+          "defense_pct": 65.0,
+          "st_snaps": 5,
+          "st_pct": 20.0
+        }
+      ]
+    },
+    {
+      "player_id": "17613",
+      "player": "Gracen Halton",
+      "position": "DT",
+      "unit": "IDP",
+      "team": "SF",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "HaltGr00",
+      "snaps": 30,
+      "pct": 34.0,
+      "avg_3wk": 46.3,
+      "season_avg": 46.3,
+      "delta": -20.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "SF",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 31,
+          "defense_pct": 51.0,
+          "st_snaps": 1,
+          "st_pct": 5.0
+        },
+        {
+          "week": 2,
+          "team": "SF",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 32,
+          "defense_pct": 54.0,
+          "st_snaps": 4,
+          "st_pct": 16.0
+        },
+        {
+          "week": 3,
+          "team": "SF",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 30,
+          "defense_pct": 34.0,
+          "st_snaps": 3,
+          "st_pct": 9.0
+        }
+      ]
+    },
+    {
+      "player_id": "11723",
+      "player": "Kyle Van Noy",
+      "position": "DE",
+      "unit": "IDP",
+      "team": "MIN",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "VanNKy00",
+      "snaps": 17,
+      "pct": 25.0,
+      "avg_3wk": 28.7,
+      "season_avg": 28.7,
+      "delta": 1.0,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "MIN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 25,
+          "defense_pct": 37.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "MIN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 18,
+          "defense_pct": 24.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "MIN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 17,
+          "defense_pct": 25.0,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "17333",
+      "player": "Darius Cooper",
+      "position": "WR",
+      "unit": "Offense",
+      "team": "PHI",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "CoopDa01",
+      "snaps": 5,
+      "pct": 10.0,
+      "avg_3wk": 22.0,
+      "season_avg": 22.0,
+      "delta": -31.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "PHI",
+          "offense_snaps": 8,
+          "offense_pct": 15.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 21,
+          "st_pct": 68.0
+        },
+        {
+          "week": 2,
+          "team": "PHI",
+          "offense_snaps": 31,
+          "offense_pct": 41.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 15,
+          "st_pct": 65.0
+        },
+        {
+          "week": 3,
+          "team": "PHI",
+          "offense_snaps": 5,
+          "offense_pct": 10.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 13,
+          "st_pct": 68.0
+        }
+      ]
+    },
+    {
       "player_id": "13146",
       "player": "James Conner",
       "position": "RB",
@@ -2268,7 +2388,7 @@
         },
         {
           "league": "MLS Dynasty League",
-          "status": "ROSTER"
+          "status": "INJURED_RESERVE"
         }
       ],
       "pfr_id": "ThomJa04",
@@ -2467,61 +2587,6 @@
       ]
     },
     {
-      "player_id": "17591",
-      "player": "Nate Boerkircher",
-      "position": "TE",
-      "unit": "Offense",
-      "team": "JAX",
-      "leagues": [
-        "EGS PRO"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "TAXI_SQUAD"
-        }
-      ],
-      "pfr_id": "BoerNa00",
-      "snaps": 28,
-      "pct": 45.0,
-      "avg_3wk": 50.3,
-      "season_avg": 50.3,
-      "delta": 6.0,
-      "trend": 1,
-      "history": [
-        {
-          "week": 1,
-          "team": "JAX",
-          "offense_snaps": 38,
-          "offense_pct": 67.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 3,
-          "st_pct": 13.0
-        },
-        {
-          "week": 2,
-          "team": "JAX",
-          "offense_snaps": 23,
-          "offense_pct": 39.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "JAX",
-          "offense_snaps": 28,
-          "offense_pct": 45.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 1,
-          "st_pct": 4.0
-        }
-      ]
-    },
-    {
       "player_id": "17508",
       "player": "Skyler Bell",
       "position": "WR",
@@ -2662,6 +2727,61 @@
           "defense_pct": null,
           "st_snaps": 8,
           "st_pct": 27.0
+        }
+      ]
+    },
+    {
+      "player_id": "17580",
+      "player": "Malachi Lawrence",
+      "position": "DE",
+      "unit": "IDP",
+      "team": "DAL",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "TAXI_SQUAD"
+        }
+      ],
+      "pfr_id": "LawrMa01",
+      "snaps": 17,
+      "pct": 27.0,
+      "avg_3wk": 34.0,
+      "season_avg": 34.0,
+      "delta": -5.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 30,
+          "defense_pct": 43.0,
+          "st_snaps": 6,
+          "st_pct": 32.0
+        },
+        {
+          "week": 2,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 23,
+          "defense_pct": 32.0,
+          "st_snaps": 6,
+          "st_pct": 22.0
+        },
+        {
+          "week": 3,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 17,
+          "defense_pct": 27.0,
+          "st_snaps": 13,
+          "st_pct": 43.0
         }
       ]
     },
@@ -3597,56 +3717,6 @@
           "defense_pct": 54.0,
           "st_snaps": 5,
           "st_pct": 26.0
-        }
-      ]
-    },
-    {
-      "player_id": "16184",
-      "player": "Jayden Reed",
-      "position": "WR",
-      "unit": "Offense",
-      "team": "GB",
-      "leagues": [
-        "EGS SIM",
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SFX",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "ReedJa03",
-      "snaps": 2,
-      "pct": 3.0,
-      "avg_3wk": 30.0,
-      "season_avg": 30.0,
-      "delta": -54.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "GB",
-          "offense_snaps": 39,
-          "offense_pct": 57.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "GB",
-          "offense_snaps": 2,
-          "offense_pct": 3.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
         }
       ]
     },
@@ -4876,6 +4946,116 @@
       ]
     },
     {
+      "player_id": "15814",
+      "player": "Cameron Thomas",
+      "position": "DE",
+      "unit": "IDP",
+      "team": "ATL",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "ThomCa03",
+      "snaps": 45,
+      "pct": 68.0,
+      "avg_3wk": 59.3,
+      "season_avg": 59.3,
+      "delta": 9.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 1,
+          "team": "ATL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 34,
+          "defense_pct": 51.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "ATL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 39,
+          "defense_pct": 59.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "ATL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 45,
+          "defense_pct": 68.0,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "15985",
+      "player": "Markquese Bell",
+      "position": "S",
+      "unit": "IDP",
+      "team": "DAL",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "BellMa01",
+      "snaps": 44,
+      "pct": 69.0,
+      "avg_3wk": 74.5,
+      "season_avg": 74.5,
+      "delta": -11.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 16,
+          "st_pct": 84.0
+        },
+        {
+          "week": 2,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 57,
+          "defense_pct": 80.0,
+          "st_snaps": 10,
+          "st_pct": 37.0
+        },
+        {
+          "week": 3,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 44,
+          "defense_pct": 69.0,
+          "st_snaps": 6,
+          "st_pct": 20.0
+        }
+      ]
+    },
+    {
       "player_id": "16215",
       "player": "Luke Musgrave",
       "position": "TE",
@@ -4965,6 +5145,56 @@
           "defense_pct": 83.0,
           "st_snaps": 2,
           "st_pct": 9.0
+        }
+      ]
+    },
+    {
+      "player_id": "16184",
+      "player": "Jayden Reed",
+      "position": "WR",
+      "unit": "Offense",
+      "team": "GB",
+      "leagues": [
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "ReedJa03",
+      "snaps": 2,
+      "pct": 3.0,
+      "avg_3wk": 30.0,
+      "season_avg": 30.0,
+      "delta": -54.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "GB",
+          "offense_snaps": 39,
+          "offense_pct": 57.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "GB",
+          "offense_snaps": 2,
+          "offense_pct": 3.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
         }
       ]
     },
@@ -6969,7 +7199,7 @@
         },
         {
           "league": "MLS Dynasty League",
-          "status": "ROSTER"
+          "status": "INJURED_RESERVE"
         }
       ],
       "pfr_id": "BechJa00",
@@ -7979,6 +8209,116 @@
           "defense_pct": 57.0,
           "st_snaps": 5,
           "st_pct": 19.0
+        }
+      ]
+    },
+    {
+      "player_id": "16333",
+      "player": "Elijah Higgins",
+      "position": "TE",
+      "unit": "Offense",
+      "team": "ARI",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "HiggEl00",
+      "snaps": 35,
+      "pct": 40.0,
+      "avg_3wk": 31.0,
+      "season_avg": 31.0,
+      "delta": 14.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 1,
+          "team": "ARI",
+          "offense_snaps": 20,
+          "offense_pct": 27.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 6,
+          "st_pct": 25.0
+        },
+        {
+          "week": 2,
+          "team": "ARI",
+          "offense_snaps": 13,
+          "offense_pct": 26.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 15,
+          "st_pct": 65.0
+        },
+        {
+          "week": 3,
+          "team": "ARI",
+          "offense_snaps": 35,
+          "offense_pct": 40.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 17,
+          "st_pct": 53.0
+        }
+      ]
+    },
+    {
+      "player_id": "16705",
+      "player": "Calen Bullock",
+      "position": "S",
+      "unit": "IDP",
+      "team": "HOU",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "BullCa00",
+      "snaps": 71,
+      "pct": 100.0,
+      "avg_3wk": 99.0,
+      "season_avg": 99.0,
+      "delta": 0.0,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "HOU",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 56,
+          "defense_pct": 97.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "HOU",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 60,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "HOU",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 71,
+          "defense_pct": 100.0,
+          "st_snaps": 4,
+          "st_pct": 17.0
         }
       ]
     }
