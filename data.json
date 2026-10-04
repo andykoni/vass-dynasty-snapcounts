@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 4,
-  "updated_at": "2026-10-03T09:14:31Z",
+  "updated_at": "2026-10-04T15:56:11Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -1616,11 +1616,16 @@
       "unit": "IDP",
       "team": "DEN",
       "leagues": [
-        "EGS PRO"
+        "EGS PRO",
+        "EGS SFX"
       ],
       "status": [
         {
           "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
           "status": "ROSTER"
         }
       ],
@@ -7234,6 +7239,61 @@
           "defense_pct": 2.0,
           "st_snaps": 10,
           "st_pct": 27.0
+        }
+      ]
+    },
+    {
+      "player_id": "15364",
+      "player": "Andre Cisco",
+      "position": "S",
+      "unit": "IDP",
+      "team": "NYJ",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "CiscAn00",
+      "snaps": 65,
+      "pct": 100.0,
+      "avg_3wk": 96.0,
+      "season_avg": 96.0,
+      "delta": 0.0,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 44,
+          "defense_pct": 88.0,
+          "st_snaps": 13,
+          "st_pct": 48.0
+        },
+        {
+          "week": 2,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 59,
+          "defense_pct": 100.0,
+          "st_snaps": 7,
+          "st_pct": 24.0
+        },
+        {
+          "week": 3,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 65,
+          "defense_pct": 100.0,
+          "st_snaps": 3,
+          "st_pct": 13.0
         }
       ]
     },
