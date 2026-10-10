@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "week": 4,
-  "updated_at": "2026-10-09T09:16:07Z",
+  "week": 5,
+  "updated_at": "2026-10-10T09:13:14Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -956,12 +956,12 @@
         }
       ],
       "pfr_id": "GainKe00",
-      "snaps": 27,
-      "pct": 43.0,
-      "avg_3wk": 41.3,
-      "season_avg": 42.5,
-      "delta": -3.0,
-      "trend": 0,
+      "snaps": 26,
+      "pct": 36.0,
+      "avg_3wk": 41.7,
+      "season_avg": 41.2,
+      "delta": -7.0,
+      "trend": -1,
       "history": [
         {
           "week": 1,
@@ -1002,6 +1002,16 @@
           "defense_pct": null,
           "st_snaps": 6,
           "st_pct": 32.0
+        },
+        {
+          "week": 5,
+          "team": "TB",
+          "offense_snaps": 26,
+          "offense_pct": 36.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 9,
+          "st_pct": 41.0
         }
       ]
     },
@@ -3165,12 +3175,12 @@
         }
       ],
       "pfr_id": "LawrMa01",
-      "snaps": 20,
-      "pct": 36.0,
-      "avg_3wk": 31.7,
-      "season_avg": 34.5,
-      "delta": 9.0,
-      "trend": 1,
+      "snaps": 27,
+      "pct": 38.0,
+      "avg_3wk": 33.7,
+      "season_avg": 35.2,
+      "delta": 2.0,
+      "trend": 0,
       "history": [
         {
           "week": 1,
@@ -3211,6 +3221,16 @@
           "defense_pct": 36.0,
           "st_snaps": 7,
           "st_pct": 21.0
+        },
+        {
+          "week": 5,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 27,
+          "defense_pct": 38.0,
+          "st_snaps": 4,
+          "st_pct": 18.0
         }
       ]
     },
@@ -4318,8 +4338,8 @@
       "snaps": 59,
       "pct": 98.0,
       "avg_3wk": 97.7,
-      "season_avg": 97.5,
-      "delta": 1.0,
+      "season_avg": 97.6,
+      "delta": 0.0,
       "trend": 0,
       "history": [
         {
@@ -4361,6 +4381,16 @@
           "defense_pct": 98.0,
           "st_snaps": 3,
           "st_pct": 16.0
+        },
+        {
+          "week": 5,
+          "team": "TB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 59,
+          "defense_pct": 98.0,
+          "st_snaps": 2,
+          "st_pct": 9.0
         }
       ]
     },
@@ -5505,12 +5535,12 @@
         }
       ],
       "pfr_id": "OgboOt00",
-      "snaps": 17,
-      "pct": 31.0,
-      "avg_3wk": 44.7,
-      "season_avg": 48.0,
-      "delta": -31.0,
-      "trend": -1,
+      "snaps": 34,
+      "pct": 47.0,
+      "avg_3wk": 46.7,
+      "season_avg": 47.8,
+      "delta": 16.0,
+      "trend": 1,
       "history": [
         {
           "week": 1,
@@ -5550,6 +5580,16 @@
           "defense_snaps": 17,
           "defense_pct": 31.0,
           "st_snaps": 6,
+          "st_pct": 18.0
+        },
+        {
+          "week": 5,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 34,
+          "defense_pct": 47.0,
+          "st_snaps": 4,
           "st_pct": 18.0
         }
       ]
@@ -5705,12 +5745,12 @@
         }
       ],
       "pfr_id": "BellMa01",
-      "snaps": 10,
-      "pct": 18.0,
-      "avg_3wk": 55.7,
-      "season_avg": 55.7,
-      "delta": -51.0,
-      "trend": -1,
+      "snaps": 24,
+      "pct": 33.0,
+      "avg_3wk": 40.0,
+      "season_avg": 50.0,
+      "delta": 15.0,
+      "trend": 1,
       "history": [
         {
           "week": 1,
@@ -5751,6 +5791,16 @@
           "defense_pct": 18.0,
           "st_snaps": 25,
           "st_pct": 76.0
+        },
+        {
+          "week": 5,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 24,
+          "defense_pct": 33.0,
+          "st_snaps": 19,
+          "st_pct": 86.0
         }
       ]
     },
@@ -8732,12 +8782,12 @@
         }
       ],
       "pfr_id": "TuckSe00",
-      "snaps": 3,
-      "pct": 5.0,
-      "avg_3wk": 3.0,
-      "season_avg": 3.0,
-      "delta": 4.0,
-      "trend": 0,
+      "snaps": 7,
+      "pct": 10.0,
+      "avg_3wk": 5.3,
+      "season_avg": 5.3,
+      "delta": 5.0,
+      "trend": 1,
       "history": [
         {
           "week": 2,
@@ -8768,6 +8818,16 @@
           "defense_pct": null,
           "st_snaps": 1,
           "st_pct": 5.0
+        },
+        {
+          "week": 5,
+          "team": "TB",
+          "offense_snaps": 7,
+          "offense_pct": 10.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
         }
       ]
     },
