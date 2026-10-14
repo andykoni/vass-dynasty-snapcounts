@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 5,
-  "updated_at": "2026-10-13T09:16:47Z",
+  "updated_at": "2026-10-14T09:28:24Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -481,12 +481,12 @@
         }
       ],
       "pfr_id": "KincDa00",
-      "snaps": 35,
-      "pct": 59.0,
-      "avg_3wk": 64.0,
-      "season_avg": 66.0,
-      "delta": -8.0,
-      "trend": -1,
+      "snaps": 45,
+      "pct": 70.0,
+      "avg_3wk": 65.3,
+      "season_avg": 66.8,
+      "delta": 11.0,
+      "trend": 1,
       "history": [
         {
           "week": 1,
@@ -523,6 +523,16 @@
           "team": "BUF",
           "offense_snaps": 35,
           "offense_pct": 59.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 5,
+          "team": "BUF",
+          "offense_snaps": 45,
+          "offense_pct": 70.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -1386,12 +1396,12 @@
         }
       ],
       "pfr_id": "GardCh00",
-      "snaps": 76,
-      "pct": 100.0,
-      "avg_3wk": 99.7,
-      "season_avg": 99.8,
-      "delta": 1.0,
-      "trend": 0,
+      "snaps": 78,
+      "pct": 95.0,
+      "avg_3wk": 98.0,
+      "season_avg": 98.8,
+      "delta": -5.0,
+      "trend": -1,
       "history": [
         {
           "week": 1,
@@ -1430,6 +1440,16 @@
           "offense_pct": null,
           "defense_snaps": 76,
           "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 5,
+          "team": "BUF",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 78,
+          "defense_pct": 95.0,
           "st_snaps": 0,
           "st_pct": null
         }
@@ -2215,76 +2235,6 @@
       ]
     },
     {
-      "player_id": "15397",
-      "player": "Chauncey Golston",
-      "position": "DE",
-      "unit": "IDP",
-      "team": "NYG",
-      "leagues": [
-        "EGS PRO",
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        },
-        {
-          "league": "EGS SIM",
-          "status": "INJURED_RESERVE"
-        }
-      ],
-      "pfr_id": "GolsCh00",
-      "snaps": 25,
-      "pct": 38.0,
-      "avg_3wk": 53.0,
-      "season_avg": 51.8,
-      "delta": -20.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "NYG",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 28,
-          "defense_pct": 48.0,
-          "st_snaps": 13,
-          "st_pct": 68.0
-        },
-        {
-          "week": 2,
-          "team": "NYG",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 39,
-          "defense_pct": 63.0,
-          "st_snaps": 10,
-          "st_pct": 42.0
-        },
-        {
-          "week": 3,
-          "team": "NYG",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 35,
-          "defense_pct": 58.0,
-          "st_snaps": 13,
-          "st_pct": 57.0
-        },
-        {
-          "week": 4,
-          "team": "NYG",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 25,
-          "defense_pct": 38.0,
-          "st_snaps": 12,
-          "st_pct": 41.0
-        }
-      ]
-    },
-    {
       "player_id": "16630",
       "player": "Isaiah Williams",
       "position": "WR",
@@ -2844,6 +2794,41 @@
       ]
     },
     {
+      "player_id": "17138",
+      "player": "Kenneth Grant",
+      "position": "DT",
+      "unit": "IDP",
+      "team": "MIA",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "GranKe01",
+      "snaps": 16,
+      "pct": 25.0,
+      "avg_3wk": 25.0,
+      "season_avg": 25.0,
+      "delta": null,
+      "trend": 0,
+      "history": [
+        {
+          "week": 5,
+          "team": "MIA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 16,
+          "defense_pct": 25.0,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
       "player_id": "13146",
       "player": "James Conner",
       "position": "RB",
@@ -2871,41 +2856,6 @@
       "delta": null,
       "trend": 0,
       "history": []
-    },
-    {
-      "player_id": "17138",
-      "player": "Kenneth Grant",
-      "position": "DT",
-      "unit": "IDP",
-      "team": "MIA",
-      "leagues": [
-        "EGS PRO"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "INJURED_RESERVE"
-        }
-      ],
-      "pfr_id": "GranKe01",
-      "snaps": 16,
-      "pct": 25.0,
-      "avg_3wk": 25.0,
-      "season_avg": 25.0,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 5,
-          "team": "MIA",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 16,
-          "defense_pct": 25.0,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
     },
     {
       "player_id": "13700",
@@ -3152,6 +3102,76 @@
       ]
     },
     {
+      "player_id": "15397",
+      "player": "Chauncey Golston",
+      "position": "DE",
+      "unit": "IDP",
+      "team": "NYG",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "pfr_id": "GolsCh00",
+      "snaps": 25,
+      "pct": 38.0,
+      "avg_3wk": 53.0,
+      "season_avg": 51.8,
+      "delta": -20.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 28,
+          "defense_pct": 48.0,
+          "st_snaps": 13,
+          "st_pct": 68.0
+        },
+        {
+          "week": 2,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 39,
+          "defense_pct": 63.0,
+          "st_snaps": 10,
+          "st_pct": 42.0
+        },
+        {
+          "week": 3,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 35,
+          "defense_pct": 58.0,
+          "st_snaps": 13,
+          "st_pct": 57.0
+        },
+        {
+          "week": 4,
+          "team": "NYG",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 25,
+          "defense_pct": 38.0,
+          "st_snaps": 12,
+          "st_pct": 41.0
+        }
+      ]
+    },
+    {
       "player_id": "17541",
       "player": "Barion Brown",
       "position": "WR",
@@ -3351,7 +3371,7 @@
       "player": "Skyler Bell",
       "position": "WR",
       "unit": "Offense",
-      "team": "",
+      "team": "BUF",
       "leagues": [
         "EGS PRO",
         "EGS SFX",
@@ -3372,13 +3392,24 @@
         }
       ],
       "pfr_id": "BellSk00",
-      "snaps": null,
-      "pct": null,
-      "avg_3wk": null,
-      "season_avg": null,
+      "snaps": 39,
+      "pct": 61.0,
+      "avg_3wk": 61.0,
+      "season_avg": 61.0,
       "delta": null,
       "trend": 0,
-      "history": []
+      "history": [
+        {
+          "week": 5,
+          "team": "BUF",
+          "offense_snaps": 39,
+          "offense_pct": 61.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
     },
     {
       "player_id": "17558",
@@ -3836,12 +3867,12 @@
         }
       ],
       "pfr_id": "TurnKo00",
-      "snaps": 48,
-      "pct": 79.0,
-      "avg_3wk": 66.3,
-      "season_avg": 66.2,
-      "delta": 18.0,
-      "trend": 1,
+      "snaps": 43,
+      "pct": 67.0,
+      "avg_3wk": 69.0,
+      "season_avg": 66.4,
+      "delta": -12.0,
+      "trend": -1,
       "history": [
         {
           "week": 1,
@@ -3882,6 +3913,16 @@
           "defense_pct": 79.0,
           "st_snaps": 4,
           "st_pct": 13.0
+        },
+        {
+          "week": 5,
+          "team": "LA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 43,
+          "defense_pct": 67.0,
+          "st_snaps": 6,
+          "st_pct": 21.0
         }
       ]
     },
@@ -7024,11 +7065,11 @@
         }
       ],
       "pfr_id": "YounBy01",
-      "snaps": 54,
-      "pct": 89.0,
-      "avg_3wk": 82.7,
-      "season_avg": 80.0,
-      "delta": 1.0,
+      "snaps": 55,
+      "pct": 86.0,
+      "avg_3wk": 87.7,
+      "season_avg": 81.2,
+      "delta": -3.0,
       "trend": 0,
       "history": [
         {
@@ -7070,6 +7111,16 @@
           "defense_pct": 89.0,
           "st_snaps": 0,
           "st_pct": null
+        },
+        {
+          "week": 5,
+          "team": "LA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 55,
+          "defense_pct": 86.0,
+          "st_snaps": 1,
+          "st_pct": 3.0
         }
       ]
     },
@@ -7094,12 +7145,12 @@
         }
       ],
       "pfr_id": "WillKy02",
-      "snaps": 70,
-      "pct": 83.0,
-      "avg_3wk": 69.7,
-      "season_avg": 68.2,
-      "delta": 12.0,
-      "trend": 1,
+      "snaps": 60,
+      "pct": 73.0,
+      "avg_3wk": 75.7,
+      "season_avg": 69.2,
+      "delta": -10.0,
+      "trend": -1,
       "history": [
         {
           "week": 1,
@@ -7136,6 +7187,16 @@
           "team": "LA",
           "offense_snaps": 70,
           "offense_pct": 83.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 5,
+          "team": "LA",
+          "offense_snaps": 60,
+          "offense_pct": 73.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -8304,11 +8365,11 @@
         }
       ],
       "pfr_id": "CurlKa00",
-      "snaps": 61,
+      "snaps": 64,
       "pct": 100.0,
       "avg_3wk": 99.7,
-      "season_avg": 86.2,
-      "delta": 1.0,
+      "season_avg": 89.0,
+      "delta": 0.0,
       "trend": 0,
       "history": [
         {
@@ -8350,6 +8411,16 @@
           "defense_pct": 100.0,
           "st_snaps": 0,
           "st_pct": null
+        },
+        {
+          "week": 5,
+          "team": "LA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 64,
+          "defense_pct": 100.0,
+          "st_snaps": 1,
+          "st_pct": 3.0
         }
       ]
     },
