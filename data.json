@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "week": 5,
-  "updated_at": "2026-10-15T14:02:01Z",
+  "week": 6,
+  "updated_at": "2026-10-16T13:48:15Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -401,11 +401,11 @@
         }
       ],
       "pfr_id": "BoniNi00",
-      "snaps": 38,
-      "pct": 57.0,
-      "avg_3wk": 61.0,
-      "season_avg": 60.6,
-      "delta": -2.0,
+      "snaps": 48,
+      "pct": 56.0,
+      "avg_3wk": 57.3,
+      "season_avg": 59.8,
+      "delta": -1.0,
       "trend": 0,
       "history": [
         {
@@ -455,6 +455,16 @@
           "offense_pct": null,
           "defense_snaps": 38,
           "defense_pct": 57.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 6,
+          "team": "DEN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 48,
+          "defense_pct": 56.0,
           "st_snaps": 0,
           "st_pct": null
         }
@@ -1776,11 +1786,11 @@
         }
       ],
       "pfr_id": "LoveJu00",
-      "snaps": 58,
-      "pct": 97.0,
-      "avg_3wk": 97.7,
-      "season_avg": 98.2,
-      "delta": -3.0,
+      "snaps": 60,
+      "pct": 100.0,
+      "avg_3wk": 99.0,
+      "season_avg": 98.6,
+      "delta": 3.0,
       "trend": 0,
       "history": [
         {
@@ -1822,6 +1832,16 @@
           "defense_pct": 97.0,
           "st_snaps": 5,
           "st_pct": 15.0
+        },
+        {
+          "week": 6,
+          "team": "SEA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 60,
+          "defense_pct": 100.0,
+          "st_snaps": 3,
+          "st_pct": 11.0
         }
       ]
     },
@@ -2025,12 +2045,12 @@
         }
       ],
       "pfr_id": "RoacMa01",
-      "snaps": 41,
-      "pct": 61.0,
-      "avg_3wk": 62.7,
-      "season_avg": 58.4,
-      "delta": -4.0,
-      "trend": 0,
+      "snaps": 42,
+      "pct": 49.0,
+      "avg_3wk": 58.3,
+      "season_avg": 56.8,
+      "delta": -12.0,
+      "trend": -1,
       "history": [
         {
           "week": 1,
@@ -2081,6 +2101,16 @@
           "defense_pct": 61.0,
           "st_snaps": 4,
           "st_pct": 13.0
+        },
+        {
+          "week": 6,
+          "team": "DEN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 42,
+          "defense_pct": 49.0,
+          "st_snaps": 4,
+          "st_pct": 15.0
         }
       ]
     },
@@ -6259,11 +6289,16 @@
       "team": "ATL",
       "leagues": [
         "EGS SIM",
+        "EGS SFX",
         "MLS Dynasty League"
       ],
       "status": [
         {
           "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
           "status": "ROSTER"
         },
         {
@@ -6553,6 +6588,86 @@
           "defense_pct": null,
           "st_snaps": 7,
           "st_pct": 28.0
+        }
+      ]
+    },
+    {
+      "player_id": "16333",
+      "player": "Elijah Higgins",
+      "position": "TE",
+      "unit": "Offense",
+      "team": "ARI",
+      "leagues": [
+        "EGS SIM",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "HiggEl00",
+      "snaps": 39,
+      "pct": 53.0,
+      "avg_3wk": 43.0,
+      "season_avg": 36.4,
+      "delta": 17.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 1,
+          "team": "ARI",
+          "offense_snaps": 20,
+          "offense_pct": 27.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 6,
+          "st_pct": 25.0
+        },
+        {
+          "week": 2,
+          "team": "ARI",
+          "offense_snaps": 13,
+          "offense_pct": 26.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 15,
+          "st_pct": 65.0
+        },
+        {
+          "week": 3,
+          "team": "ARI",
+          "offense_snaps": 35,
+          "offense_pct": 40.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 17,
+          "st_pct": 53.0
+        },
+        {
+          "week": 4,
+          "team": "ARI",
+          "offense_snaps": 24,
+          "offense_pct": 36.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 17,
+          "st_pct": 59.0
+        },
+        {
+          "week": 5,
+          "team": "ARI",
+          "offense_snaps": 39,
+          "offense_pct": 53.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 17,
+          "st_pct": 53.0
         }
       ]
     },
@@ -9181,16 +9296,11 @@
       "unit": "IDP",
       "team": "TB",
       "leagues": [
-        "EGS SFX",
-        "MLS Dynasty League"
+        "EGS SFX"
       ],
       "status": [
         {
           "league": "EGS SFX",
-          "status": "ROSTER"
-        },
-        {
-          "league": "MLS Dynasty League",
           "status": "ROSTER"
         }
       ],
@@ -9231,6 +9341,81 @@
           "defense_pct": 2.0,
           "st_snaps": 10,
           "st_pct": 27.0
+        }
+      ]
+    },
+    {
+      "player_id": "13707",
+      "player": "Denzel Ward",
+      "position": "CB",
+      "unit": "IDP",
+      "team": "CLE",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "WardDe02",
+      "snaps": 70,
+      "pct": 100.0,
+      "avg_3wk": 99.7,
+      "season_avg": 99.8,
+      "delta": 0.0,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "CLE",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 57,
+          "defense_pct": 100.0,
+          "st_snaps": 6,
+          "st_pct": 26.0
+        },
+        {
+          "week": 2,
+          "team": "CLE",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 65,
+          "defense_pct": 100.0,
+          "st_snaps": 5,
+          "st_pct": 17.0
+        },
+        {
+          "week": 3,
+          "team": "CLE",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 76,
+          "defense_pct": 99.0,
+          "st_snaps": 4,
+          "st_pct": 15.0
+        },
+        {
+          "week": 4,
+          "team": "CLE",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 72,
+          "defense_pct": 100.0,
+          "st_snaps": 3,
+          "st_pct": 11.0
+        },
+        {
+          "week": 5,
+          "team": "CLE",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 70,
+          "defense_pct": 100.0,
+          "st_snaps": 3,
+          "st_pct": 10.0
         }
       ]
     },
@@ -9704,11 +9889,11 @@
         }
       ],
       "pfr_id": "MossRi00",
-      "snaps": 34,
-      "pct": 52.0,
-      "avg_3wk": 83.3,
-      "season_avg": 87.5,
-      "delta": -48.0,
+      "snaps": 20,
+      "pct": 24.0,
+      "avg_3wk": 58.7,
+      "season_avg": 74.8,
+      "delta": -28.0,
       "trend": -1,
       "history": [
         {
@@ -9748,6 +9933,16 @@
           "offense_pct": null,
           "defense_snaps": 34,
           "defense_pct": 52.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 6,
+          "team": "DEN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 20,
+          "defense_pct": 24.0,
           "st_snaps": 0,
           "st_pct": null
         }
@@ -10054,71 +10249,6 @@
       ]
     },
     {
-      "player_id": "14982",
-      "player": "Alohi Gilman",
-      "position": "S",
-      "unit": "IDP",
-      "team": "KC",
-      "leagues": [
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "GilmAl00",
-      "snaps": 76,
-      "pct": 90.0,
-      "avg_3wk": 96.7,
-      "season_avg": 97.5,
-      "delta": -10.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "KC",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 51,
-          "defense_pct": 100.0,
-          "st_snaps": 1,
-          "st_pct": 4.0
-        },
-        {
-          "week": 2,
-          "team": "KC",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 65,
-          "defense_pct": 100.0,
-          "st_snaps": 1,
-          "st_pct": 3.0
-        },
-        {
-          "week": 3,
-          "team": "KC",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 73,
-          "defense_pct": 100.0,
-          "st_snaps": 1,
-          "st_pct": 6.0
-        },
-        {
-          "week": 4,
-          "team": "KC",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 76,
-          "defense_pct": 90.0,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
-    },
-    {
       "player_id": "17039",
       "player": "Tyler Shough",
       "position": "QB",
@@ -10415,81 +10545,6 @@
           "defense_pct": 98.0,
           "st_snaps": 0,
           "st_pct": null
-        }
-      ]
-    },
-    {
-      "player_id": "16333",
-      "player": "Elijah Higgins",
-      "position": "TE",
-      "unit": "Offense",
-      "team": "ARI",
-      "leagues": [
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "HiggEl00",
-      "snaps": 39,
-      "pct": 53.0,
-      "avg_3wk": 43.0,
-      "season_avg": 36.4,
-      "delta": 17.0,
-      "trend": 1,
-      "history": [
-        {
-          "week": 1,
-          "team": "ARI",
-          "offense_snaps": 20,
-          "offense_pct": 27.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 6,
-          "st_pct": 25.0
-        },
-        {
-          "week": 2,
-          "team": "ARI",
-          "offense_snaps": 13,
-          "offense_pct": 26.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 15,
-          "st_pct": 65.0
-        },
-        {
-          "week": 3,
-          "team": "ARI",
-          "offense_snaps": 35,
-          "offense_pct": 40.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 17,
-          "st_pct": 53.0
-        },
-        {
-          "week": 4,
-          "team": "ARI",
-          "offense_snaps": 24,
-          "offense_pct": 36.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 17,
-          "st_pct": 59.0
-        },
-        {
-          "week": 5,
-          "team": "ARI",
-          "offense_snaps": 39,
-          "offense_pct": 53.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 17,
-          "st_pct": 53.0
         }
       ]
     },
@@ -10865,6 +10920,146 @@
           "defense_pct": 68.0,
           "st_snaps": 8,
           "st_pct": 24.0
+        }
+      ]
+    },
+    {
+      "player_id": "17592",
+      "player": "Davison Igbinosun",
+      "position": "CB",
+      "unit": "IDP",
+      "team": "BUF",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "IgbiDa01",
+      "snaps": 69,
+      "pct": 84.0,
+      "avg_3wk": 75.7,
+      "season_avg": 53.2,
+      "delta": -16.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "BUF",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 11,
+          "defense_pct": 14.0,
+          "st_snaps": 12,
+          "st_pct": 39.0
+        },
+        {
+          "week": 2,
+          "team": "BUF",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 16,
+          "defense_pct": 25.0,
+          "st_snaps": 15,
+          "st_pct": 52.0
+        },
+        {
+          "week": 3,
+          "team": "BUF",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 30,
+          "defense_pct": 43.0,
+          "st_snaps": 8,
+          "st_pct": 35.0
+        },
+        {
+          "week": 4,
+          "team": "BUF",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 76,
+          "defense_pct": 100.0,
+          "st_snaps": 8,
+          "st_pct": 31.0
+        },
+        {
+          "week": 5,
+          "team": "BUF",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 69,
+          "defense_pct": 84.0,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "15894",
+      "player": "Tariq Woolen",
+      "position": "CB",
+      "unit": "IDP",
+      "team": "PHI",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "WoolTa00",
+      "snaps": 72,
+      "pct": 100.0,
+      "avg_3wk": 99.7,
+      "season_avg": 98.8,
+      "delta": 0.0,
+      "trend": 0,
+      "history": [
+        {
+          "week": 2,
+          "team": "PHI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 51,
+          "defense_pct": 96.0,
+          "st_snaps": 4,
+          "st_pct": 17.0
+        },
+        {
+          "week": 3,
+          "team": "PHI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 71,
+          "defense_pct": 99.0,
+          "st_snaps": 5,
+          "st_pct": 26.0
+        },
+        {
+          "week": 4,
+          "team": "PHI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 84,
+          "defense_pct": 100.0,
+          "st_snaps": 5,
+          "st_pct": 17.0
+        },
+        {
+          "week": 5,
+          "team": "PHI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 72,
+          "defense_pct": 100.0,
+          "st_snaps": 4,
+          "st_pct": 15.0
         }
       ]
     }
