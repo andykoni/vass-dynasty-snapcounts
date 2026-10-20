@@ -498,7 +498,7 @@ td:nth-child(n+5){
   <div class="spot">
     <div class="spotHead">
       <h3>Biggest role risers</h3>
-      <span>vs recent baseline</span>
+      <span>current week only · vs recent baseline</span>
     </div>
     <div id="risersList" class="spotList"></div>
   </div>
@@ -506,7 +506,7 @@ td:nth-child(n+5){
   <div class="spot">
     <div class="spotHead">
       <h3>Biggest role fallers</h3>
-      <span>vs recent baseline</span>
+      <span>current week only · vs recent baseline</span>
     </div>
     <div id="fallersList" class="spotList"></div>
   </div>
@@ -615,11 +615,9 @@ fetch('data.json?' + Date.now())
 
     $('players').textContent = D.current.length;
 
-    $('rising').textContent =
-      D.current.filter(x => x.trend > 0).length;
-
-    $('falling').textContent =
-      D.current.filter(x => x.trend < 0).length;
+    // These headline counts are set after the latest-week eligibility check below.
+    $('rising').textContent = '—';
+    $('falling').textContent = '—';
 
     $('leagues').textContent =
       D.leagues.length;
@@ -803,14 +801,25 @@ fetch('data.json?' + Date.now())
                 : '#182235';
 
 
-          const trendText =
-            x.delta == null
-              ? '→'
-              : x.delta > 0
-                ? '↑ ' + x.delta.toFixed(1) + ' %'
-                : x.delta < 0
-                  ? '↓ ' + Math.abs(x.delta).toFixed(1) + ' %'
-                  : '→';
+          // Only show a trend when the player recorded snaps in the latest dashboard week.
+          // Otherwise hide the old change instead of displaying a stale percentage.
+          const currentWeekRecord = (x.history || []).find(
+            h => Number(h.week) === Number(D.week)
+          );
+          const currentWeekSnaps = !currentWeekRecord
+            ? 0
+            : x.unit === 'IDP'
+              ? Number(currentWeekRecord.defense_snaps || 0)
+              : Number(currentWeekRecord.offense_snaps || 0);
+          const hasCurrentWeekSnaps = currentWeekSnaps > 0;
+
+          const trendText = !hasCurrentWeekSnaps || x.delta == null
+            ? ''
+            : x.delta > 0
+              ? '↑ ' + x.delta.toFixed(1) + ' %'
+              : x.delta < 0
+                ? '↓ ' + Math.abs(x.delta).toFixed(1) + ' %'
+                : '→';
 
 
           return `
@@ -1013,11 +1022,27 @@ fetch('data.json?' + Date.now())
 
     function renderSpotlights(){
 
-      const eligible =
-        D.current.filter(
-          x => x.delta != null
-        );
+      // Only include players who recorded snaps in the latest available week.
+      // This prevents old percentage changes lingering for players who have not played.
+      const eligible = D.current.filter(x => {
+        if (x.delta == null) return false;
 
+        const latestWeek = (x.history || []).find(
+          h => Number(h.week) === Number(D.week)
+        );
+        if (!latestWeek) return false;
+
+        // Use the snap count for the player's unit, not a stale value from an earlier week.
+        const currentSnaps = x.unit === 'IDP'
+          ? Number(latestWeek.defense_snaps || 0)
+          : Number(latestWeek.offense_snaps || 0);
+
+        return currentSnaps > 0;
+      });
+
+
+      $('rising').textContent = eligible.filter(x => x.delta > 0).length;
+      $('falling').textContent = eligible.filter(x => x.delta < 0).length;
 
       const top = (arr, n) =>
         arr
