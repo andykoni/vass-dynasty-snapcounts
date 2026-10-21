@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 6,
-  "updated_at": "2026-10-20T14:10:45Z",
+  "updated_at": "2026-10-21T14:23:49Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -2631,11 +2631,16 @@
       "unit": "IDP",
       "team": "GB",
       "leagues": [
-        "EGS PRO"
+        "EGS PRO",
+        "EGS SFX"
       ],
       "status": [
         {
           "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
           "status": "ROSTER"
         }
       ],
@@ -4438,11 +4443,16 @@
       "unit": "IDP",
       "team": "PHI",
       "leagues": [
-        "EGS SIM"
+        "EGS SIM",
+        "EGS SFX"
       ],
       "status": [
         {
           "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
           "status": "ROSTER"
         }
       ],
@@ -10366,6 +10376,91 @@
           "defense_pct": 100.0,
           "st_snaps": 3,
           "st_pct": 11.0
+        }
+      ]
+    },
+    {
+      "player_id": "16794",
+      "player": "Jowon Briggs",
+      "position": "DT",
+      "unit": "IDP",
+      "team": "NYJ",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "BrigJo00",
+      "snaps": 35,
+      "pct": 51.0,
+      "avg_3wk": 47.7,
+      "season_avg": 48.5,
+      "delta": 19.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 1,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 10,
+          "defense_pct": 20.0,
+          "st_snaps": 8,
+          "st_pct": 30.0
+        },
+        {
+          "week": 2,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 35,
+          "defense_pct": 59.0,
+          "st_snaps": 7,
+          "st_pct": 24.0
+        },
+        {
+          "week": 3,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 45,
+          "defense_pct": 69.0,
+          "st_snaps": 7,
+          "st_pct": 30.0
+        },
+        {
+          "week": 4,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 56,
+          "defense_pct": 60.0,
+          "st_snaps": 8,
+          "st_pct": 35.0
+        },
+        {
+          "week": 5,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 22,
+          "defense_pct": 32.0,
+          "st_snaps": 6,
+          "st_pct": 20.0
+        },
+        {
+          "week": 6,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 35,
+          "defense_pct": 51.0,
+          "st_snaps": 10,
+          "st_pct": 38.0
         }
       ]
     },
