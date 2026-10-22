@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 6,
-  "updated_at": "2026-10-21T14:23:49Z",
+  "updated_at": "2026-10-22T14:25:04Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -2800,81 +2800,6 @@
       ]
     },
     {
-      "player_id": "11723",
-      "player": "Kyle Van Noy",
-      "position": "DE",
-      "unit": "IDP",
-      "team": "MIN",
-      "leagues": [
-        "EGS PRO"
-      ],
-      "status": [
-        {
-          "league": "EGS PRO",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "VanNKy00",
-      "snaps": 10,
-      "pct": 22.0,
-      "avg_3wk": 33.7,
-      "season_avg": 32.4,
-      "delta": -32.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "MIN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 25,
-          "defense_pct": 37.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "MIN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 18,
-          "defense_pct": 24.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "MIN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 17,
-          "defense_pct": 25.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 4,
-          "team": "MIN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 21,
-          "defense_pct": 54.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 5,
-          "team": "MIN",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 10,
-          "defense_pct": 22.0,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
-    },
-    {
       "player_id": "17333",
       "player": "Darius Cooper",
       "position": "WR",
@@ -3110,6 +3035,91 @@
           "defense_pct": 25.0,
           "st_snaps": 0,
           "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "13802",
+      "player": "Jake Martin",
+      "position": "DE",
+      "unit": "IDP",
+      "team": "TEN",
+      "leagues": [
+        "EGS PRO"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "MartJa02",
+      "snaps": 51,
+      "pct": 61.0,
+      "avg_3wk": 58.0,
+      "season_avg": 57.3,
+      "delta": 6.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 1,
+          "team": "TEN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 30,
+          "defense_pct": 45.0,
+          "st_snaps": 5,
+          "st_pct": 19.0
+        },
+        {
+          "week": 2,
+          "team": "TEN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 50,
+          "defense_pct": 66.0,
+          "st_snaps": 4,
+          "st_pct": 17.0
+        },
+        {
+          "week": 3,
+          "team": "TEN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 38,
+          "defense_pct": 59.0,
+          "st_snaps": 5,
+          "st_pct": 22.0
+        },
+        {
+          "week": 4,
+          "team": "TEN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 37,
+          "defense_pct": 58.0,
+          "st_snaps": 5,
+          "st_pct": 19.0
+        },
+        {
+          "week": 5,
+          "team": "TEN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 36,
+          "defense_pct": 55.0,
+          "st_snaps": 6,
+          "st_pct": 27.0
+        },
+        {
+          "week": 6,
+          "team": "TEN",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 51,
+          "defense_pct": 61.0,
+          "st_snaps": 4,
+          "st_pct": 14.0
         }
       ]
     },
