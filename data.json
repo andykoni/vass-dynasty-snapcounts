@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updated_at": "2026-10-24T13:10:20Z",
+  "updated_at": "2026-10-25T13:37:18Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -10575,6 +10575,41 @@
       ]
     },
     {
+      "player_id": "17578",
+      "player": "Kyle Louis",
+      "position": "LB",
+      "unit": "IDP",
+      "team": "MIA",
+      "leagues": [
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "LouiKy00",
+      "snaps": 3,
+      "pct": 4.0,
+      "avg_3wk": 4.0,
+      "season_avg": 4.0,
+      "delta": null,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "MIA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 3,
+          "defense_pct": 4.0,
+          "st_snaps": 14,
+          "st_pct": 54.0
+        }
+      ]
+    },
+    {
       "player_id": "17119",
       "player": "Nic Scourton",
       "position": "DE",
@@ -10597,41 +10632,6 @@
       "delta": null,
       "trend": 0,
       "history": []
-    },
-    {
-      "player_id": "17578",
-      "player": "Kyle Louis",
-      "position": "LB",
-      "unit": "IDP",
-      "team": "MIA",
-      "leagues": [
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS SFX",
-          "status": "INJURED_RESERVE"
-        }
-      ],
-      "pfr_id": "LouiKy00",
-      "snaps": 3,
-      "pct": 4.0,
-      "avg_3wk": 4.0,
-      "season_avg": 4.0,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "MIA",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 3,
-          "defense_pct": 4.0,
-          "st_snaps": 14,
-          "st_pct": 54.0
-        }
-      ]
     },
     {
       "player_id": "15768",
