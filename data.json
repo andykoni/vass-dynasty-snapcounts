@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updated_at": "2026-10-27T15:12:09Z",
+  "updated_at": "2026-10-28T15:47:26Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -4637,91 +4637,6 @@
       ]
     },
     {
-      "player_id": "16282",
-      "player": "Kobie Turner",
-      "position": "DT",
-      "unit": "IDP",
-      "team": "LA",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "TurnKo00",
-      "snaps": 23,
-      "pct": 32.0,
-      "avg_3wk": 59.3,
-      "season_avg": 60.7,
-      "delta": -35.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "LA",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 43,
-          "defense_pct": 66.0,
-          "st_snaps": 1,
-          "st_pct": 5.0
-        },
-        {
-          "week": 2,
-          "team": "LA",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 34,
-          "defense_pct": 59.0,
-          "st_snaps": 2,
-          "st_pct": 8.0
-        },
-        {
-          "week": 3,
-          "team": "LA",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 41,
-          "defense_pct": 61.0,
-          "st_snaps": 3,
-          "st_pct": 10.0
-        },
-        {
-          "week": 4,
-          "team": "LA",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 48,
-          "defense_pct": 79.0,
-          "st_snaps": 4,
-          "st_pct": 13.0
-        },
-        {
-          "week": 5,
-          "team": "LA",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 43,
-          "defense_pct": 67.0,
-          "st_snaps": 6,
-          "st_pct": 21.0
-        },
-        {
-          "week": 6,
-          "team": "LA",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 23,
-          "defense_pct": 32.0,
-          "st_snaps": 3,
-          "st_pct": 12.0
-        }
-      ]
-    },
-    {
       "player_id": "16579",
       "player": "Caleb Williams",
       "position": "QB",
@@ -5153,81 +5068,6 @@
           "defense_pct": 99.0,
           "st_snaps": 4,
           "st_pct": 21.0
-        }
-      ]
-    },
-    {
-      "player_id": "17049",
-      "player": "Brashard Smith",
-      "position": "RB",
-      "unit": "Offense",
-      "team": "KC",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "SmitBr09",
-      "snaps": 0,
-      "pct": null,
-      "avg_3wk": 5.5,
-      "season_avg": 5.5,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "KC",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 3,
-          "st_pct": 11.0
-        },
-        {
-          "week": 2,
-          "team": "KC",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 9,
-          "st_pct": 27.0
-        },
-        {
-          "week": 3,
-          "team": "KC",
-          "offense_snaps": 4,
-          "offense_pct": 8.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 4,
-          "team": "KC",
-          "offense_snaps": 2,
-          "offense_pct": 3.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 1,
-          "st_pct": 3.0
-        },
-        {
-          "week": 6,
-          "team": "KC",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 1,
-          "st_pct": 4.0
         }
       ]
     },
@@ -6233,96 +6073,6 @@
           "defense_pct": null,
           "st_snaps": 4,
           "st_pct": 17.0
-        }
-      ]
-    },
-    {
-      "player_id": "16298",
-      "player": "Tavius Robinson",
-      "position": "DE",
-      "unit": "IDP",
-      "team": "BAL",
-      "leagues": [
-        "EGS SIM",
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        },
-        {
-          "league": "MLS Dynasty League",
-          "status": "INJURED_RESERVE"
-        }
-      ],
-      "pfr_id": "RobiTa00",
-      "snaps": 31,
-      "pct": 49.0,
-      "avg_3wk": 65.3,
-      "season_avg": 72.2,
-      "delta": -26.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 1,
-          "team": "BAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 44,
-          "defense_pct": 81.0,
-          "st_snaps": 17,
-          "st_pct": 55.0
-        },
-        {
-          "week": 2,
-          "team": "BAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 53,
-          "defense_pct": 78.0,
-          "st_snaps": 14,
-          "st_pct": 61.0
-        },
-        {
-          "week": 3,
-          "team": "BAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 58,
-          "defense_pct": 78.0,
-          "st_snaps": 20,
-          "st_pct": 67.0
-        },
-        {
-          "week": 4,
-          "team": "BAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 46,
-          "defense_pct": 72.0,
-          "st_snaps": 11,
-          "st_pct": 42.0
-        },
-        {
-          "week": 5,
-          "team": "BAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 48,
-          "defense_pct": 75.0,
-          "st_snaps": 10,
-          "st_pct": 33.0
-        },
-        {
-          "week": 6,
-          "team": "BAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 31,
-          "defense_pct": 49.0,
-          "st_snaps": 10,
-          "st_pct": 36.0
         }
       ]
     },
@@ -8471,6 +8221,256 @@
           "defense_pct": null,
           "st_snaps": 0,
           "st_pct": null
+        }
+      ]
+    },
+    {
+      "player_id": "17049",
+      "player": "Brashard Smith",
+      "position": "RB",
+      "unit": "Offense",
+      "team": "KC",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "pfr_id": "SmitBr09",
+      "snaps": 0,
+      "pct": null,
+      "avg_3wk": 5.5,
+      "season_avg": 5.5,
+      "delta": null,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 3,
+          "st_pct": 11.0
+        },
+        {
+          "week": 2,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 9,
+          "st_pct": 27.0
+        },
+        {
+          "week": 3,
+          "team": "KC",
+          "offense_snaps": 4,
+          "offense_pct": 8.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 4,
+          "team": "KC",
+          "offense_snaps": 2,
+          "offense_pct": 3.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 1,
+          "st_pct": 3.0
+        },
+        {
+          "week": 6,
+          "team": "KC",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 1,
+          "st_pct": 4.0
+        }
+      ]
+    },
+    {
+      "player_id": "16282",
+      "player": "Kobie Turner",
+      "position": "DT",
+      "unit": "IDP",
+      "team": "LA",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "pfr_id": "TurnKo00",
+      "snaps": 23,
+      "pct": 32.0,
+      "avg_3wk": 59.3,
+      "season_avg": 60.7,
+      "delta": -35.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "LA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 43,
+          "defense_pct": 66.0,
+          "st_snaps": 1,
+          "st_pct": 5.0
+        },
+        {
+          "week": 2,
+          "team": "LA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 34,
+          "defense_pct": 59.0,
+          "st_snaps": 2,
+          "st_pct": 8.0
+        },
+        {
+          "week": 3,
+          "team": "LA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 41,
+          "defense_pct": 61.0,
+          "st_snaps": 3,
+          "st_pct": 10.0
+        },
+        {
+          "week": 4,
+          "team": "LA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 48,
+          "defense_pct": 79.0,
+          "st_snaps": 4,
+          "st_pct": 13.0
+        },
+        {
+          "week": 5,
+          "team": "LA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 43,
+          "defense_pct": 67.0,
+          "st_snaps": 6,
+          "st_pct": 21.0
+        },
+        {
+          "week": 6,
+          "team": "LA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 23,
+          "defense_pct": 32.0,
+          "st_snaps": 3,
+          "st_pct": 12.0
+        }
+      ]
+    },
+    {
+      "player_id": "16298",
+      "player": "Tavius Robinson",
+      "position": "DE",
+      "unit": "IDP",
+      "team": "BAL",
+      "leagues": [
+        "EGS SIM",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "pfr_id": "RobiTa00",
+      "snaps": 31,
+      "pct": 49.0,
+      "avg_3wk": 65.3,
+      "season_avg": 72.2,
+      "delta": -26.0,
+      "trend": -1,
+      "history": [
+        {
+          "week": 1,
+          "team": "BAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 44,
+          "defense_pct": 81.0,
+          "st_snaps": 17,
+          "st_pct": 55.0
+        },
+        {
+          "week": 2,
+          "team": "BAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 53,
+          "defense_pct": 78.0,
+          "st_snaps": 14,
+          "st_pct": 61.0
+        },
+        {
+          "week": 3,
+          "team": "BAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 58,
+          "defense_pct": 78.0,
+          "st_snaps": 20,
+          "st_pct": 67.0
+        },
+        {
+          "week": 4,
+          "team": "BAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 46,
+          "defense_pct": 72.0,
+          "st_snaps": 11,
+          "st_pct": 42.0
+        },
+        {
+          "week": 5,
+          "team": "BAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 48,
+          "defense_pct": 75.0,
+          "st_snaps": 10,
+          "st_pct": 33.0
+        },
+        {
+          "week": 6,
+          "team": "BAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 31,
+          "defense_pct": 49.0,
+          "st_snaps": 10,
+          "st_pct": 36.0
         }
       ]
     },
