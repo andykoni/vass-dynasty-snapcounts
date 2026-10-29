@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updated_at": "2026-10-28T15:47:26Z",
+  "updated_at": "2026-10-29T15:55:47Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -7174,8 +7174,7 @@
       "team": "ATL",
       "leagues": [
         "EGS SIM",
-        "EGS SFX",
-        "MLS Dynasty League"
+        "EGS SFX"
       ],
       "status": [
         {
@@ -7184,10 +7183,6 @@
         },
         {
           "league": "EGS SFX",
-          "status": "ROSTER"
-        },
-        {
-          "league": "MLS Dynasty League",
           "status": "ROSTER"
         }
       ],
@@ -13350,6 +13345,220 @@
           "defense_pct": 99.0,
           "st_snaps": 6,
           "st_pct": 24.0
+        }
+      ]
+    },
+    {
+      "player_id": "16149",
+      "player": "Will Levis",
+      "position": "QB",
+      "unit": "Offense",
+      "team": "",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "LeviWi00",
+      "snaps": null,
+      "pct": null,
+      "avg_3wk": null,
+      "season_avg": null,
+      "delta": null,
+      "trend": 0,
+      "history": []
+    },
+    {
+      "player_id": "17611",
+      "player": "Darrell Jackson",
+      "position": "DT",
+      "unit": "IDP",
+      "team": "NYJ",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "JackDa06",
+      "snaps": 38,
+      "pct": 58.0,
+      "avg_3wk": 50.7,
+      "season_avg": 38.4,
+      "delta": 7.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 1,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 8,
+          "defense_pct": 16.0,
+          "st_snaps": 3,
+          "st_pct": 11.0
+        },
+        {
+          "week": 2,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 13,
+          "defense_pct": 22.0,
+          "st_snaps": 4,
+          "st_pct": 14.0
+        },
+        {
+          "week": 3,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 23,
+          "defense_pct": 35.0,
+          "st_snaps": 5,
+          "st_pct": 22.0
+        },
+        {
+          "week": 4,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 41,
+          "defense_pct": 44.0,
+          "st_snaps": 6,
+          "st_pct": 26.0
+        },
+        {
+          "week": 5,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 29,
+          "defense_pct": 43.0,
+          "st_snaps": 3,
+          "st_pct": 10.0
+        },
+        {
+          "week": 6,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 35,
+          "defense_pct": 51.0,
+          "st_snaps": 5,
+          "st_pct": 19.0
+        },
+        {
+          "week": 7,
+          "team": "NYJ",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 38,
+          "defense_pct": 58.0,
+          "st_snaps": 8,
+          "st_pct": 33.0
+        }
+      ]
+    },
+    {
+      "player_id": "15857",
+      "player": "Sam Williams",
+      "position": "DE",
+      "unit": "IDP",
+      "team": "CLE",
+      "leagues": [
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "WillSa00",
+      "snaps": 26,
+      "pct": 41.0,
+      "avg_3wk": 36.0,
+      "season_avg": 36.6,
+      "delta": 4.0,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "CLE",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 23,
+          "defense_pct": 40.0,
+          "st_snaps": 6,
+          "st_pct": 26.0
+        },
+        {
+          "week": 2,
+          "team": "CLE",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 26,
+          "defense_pct": 40.0,
+          "st_snaps": 8,
+          "st_pct": 27.0
+        },
+        {
+          "week": 3,
+          "team": "CLE",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 22,
+          "defense_pct": 29.0,
+          "st_snaps": 8,
+          "st_pct": 30.0
+        },
+        {
+          "week": 4,
+          "team": "CLE",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 28,
+          "defense_pct": 39.0,
+          "st_snaps": 14,
+          "st_pct": 50.0
+        },
+        {
+          "week": 5,
+          "team": "CLE",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 21,
+          "defense_pct": 30.0,
+          "st_snaps": 14,
+          "st_pct": 47.0
+        },
+        {
+          "week": 6,
+          "team": "CLE",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 21,
+          "defense_pct": 37.0,
+          "st_snaps": 13,
+          "st_pct": 46.0
+        },
+        {
+          "week": 7,
+          "team": "CLE",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 26,
+          "defense_pct": 41.0,
+          "st_snaps": 12,
+          "st_pct": 44.0
         }
       ]
     },
