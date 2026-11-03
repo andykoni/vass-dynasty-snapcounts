@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 8,
-  "updated_at": "2026-11-02T19:16:32Z",
+  "updated_at": "2026-11-03T16:55:47Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -1326,12 +1326,12 @@
         }
       ],
       "pfr_id": "BurdLu00",
-      "snaps": 42,
-      "pct": 61.0,
-      "avg_3wk": 59.0,
-      "season_avg": 60.6,
-      "delta": 22.0,
-      "trend": 1,
+      "snaps": 40,
+      "pct": 57.0,
+      "avg_3wk": 52.3,
+      "season_avg": 60.1,
+      "delta": -4.0,
+      "trend": 0,
       "history": [
         {
           "week": 1,
@@ -1402,6 +1402,16 @@
           "defense_pct": null,
           "st_snaps": 1,
           "st_pct": 4.0
+        },
+        {
+          "week": 8,
+          "team": "CHI",
+          "offense_snaps": 40,
+          "offense_pct": 57.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
         }
       ]
     },
@@ -2306,12 +2316,12 @@
         }
       ],
       "pfr_id": "LoveJu00",
-      "snaps": 53,
-      "pct": 100.0,
-      "avg_3wk": 99.0,
-      "season_avg": 98.8,
-      "delta": 0.0,
-      "trend": 0,
+      "snaps": 66,
+      "pct": 94.0,
+      "avg_3wk": 98.0,
+      "season_avg": 98.1,
+      "delta": -6.0,
+      "trend": -1,
       "history": [
         {
           "week": 1,
@@ -2372,6 +2382,16 @@
           "defense_pct": 100.0,
           "st_snaps": 3,
           "st_pct": 16.0
+        },
+        {
+          "week": 8,
+          "team": "SEA",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 66,
+          "defense_pct": 94.0,
+          "st_snaps": 6,
+          "st_pct": 21.0
         }
       ]
     },
@@ -5012,10 +5032,10 @@
         }
       ],
       "pfr_id": "WillCa03",
-      "snaps": 69,
+      "snaps": 70,
       "pct": 100.0,
-      "avg_3wk": 95.3,
-      "season_avg": 96.5,
+      "avg_3wk": 100.0,
+      "season_avg": 97.2,
       "delta": 0.0,
       "trend": 0,
       "history": [
@@ -5053,6 +5073,16 @@
           "week": 7,
           "team": "CHI",
           "offense_snaps": 69,
+          "offense_pct": 100.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 8,
+          "team": "CHI",
+          "offense_snaps": 70,
           "offense_pct": 100.0,
           "defense_snaps": 0,
           "defense_pct": null,
@@ -11430,12 +11460,12 @@
         }
       ],
       "pfr_id": "ThieDi00",
-      "snaps": 54,
+      "snaps": 63,
       "pct": 100.0,
       "avg_3wk": 94.7,
-      "season_avg": 97.7,
-      "delta": 16.0,
-      "trend": 1,
+      "season_avg": 98.0,
+      "delta": 0.0,
+      "trend": 0,
       "history": [
         {
           "week": 1,
@@ -11506,6 +11536,16 @@
           "defense_pct": 100.0,
           "st_snaps": 11,
           "st_pct": 39.0
+        },
+        {
+          "week": 8,
+          "team": "CHI",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 63,
+          "defense_pct": 100.0,
+          "st_snaps": 10,
+          "st_pct": 36.0
         }
       ]
     },
