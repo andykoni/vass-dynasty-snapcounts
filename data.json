@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 9,
-  "updated_at": "2026-11-07T15:30:42Z",
+  "updated_at": "2026-11-08T15:51:05Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -14714,10 +14714,10 @@
       ]
     },
     {
-      "player_id": "15857",
-      "player": "Sam Williams",
-      "position": "DE",
-      "unit": "IDP",
+      "player_id": "16595",
+      "player": "Audric Estime",
+      "position": "RB",
+      "unit": "Offense",
       "team": "CLE",
       "leagues": [
         "MLS Dynasty League"
@@ -14728,93 +14728,23 @@
           "status": "ROSTER"
         }
       ],
-      "pfr_id": "WillSa00",
-      "snaps": 22,
-      "pct": 37.0,
-      "avg_3wk": 38.3,
-      "season_avg": 36.6,
-      "delta": -4.0,
+      "pfr_id": "EstiAu00",
+      "snaps": 19,
+      "pct": 30.0,
+      "avg_3wk": 30.0,
+      "season_avg": 30.0,
+      "delta": null,
       "trend": 0,
       "history": [
         {
-          "week": 1,
-          "team": "CLE",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 23,
-          "defense_pct": 40.0,
-          "st_snaps": 6,
-          "st_pct": 26.0
-        },
-        {
-          "week": 2,
-          "team": "CLE",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 26,
-          "defense_pct": 40.0,
-          "st_snaps": 8,
-          "st_pct": 27.0
-        },
-        {
-          "week": 3,
-          "team": "CLE",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 22,
-          "defense_pct": 29.0,
-          "st_snaps": 8,
-          "st_pct": 30.0
-        },
-        {
-          "week": 4,
-          "team": "CLE",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 28,
-          "defense_pct": 39.0,
-          "st_snaps": 14,
-          "st_pct": 50.0
-        },
-        {
-          "week": 5,
-          "team": "CLE",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 21,
-          "defense_pct": 30.0,
-          "st_snaps": 14,
-          "st_pct": 47.0
-        },
-        {
           "week": 6,
           "team": "CLE",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 21,
-          "defense_pct": 37.0,
-          "st_snaps": 13,
-          "st_pct": 46.0
-        },
-        {
-          "week": 7,
-          "team": "CLE",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 26,
-          "defense_pct": 41.0,
-          "st_snaps": 12,
-          "st_pct": 44.0
-        },
-        {
-          "week": 8,
-          "team": "CLE",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 22,
-          "defense_pct": 37.0,
-          "st_snaps": 19,
-          "st_pct": 76.0
+          "offense_snaps": 19,
+          "offense_pct": 30.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
         }
       ]
     },
