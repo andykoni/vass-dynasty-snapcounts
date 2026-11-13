@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "week": 9,
-  "updated_at": "2026-11-12T17:25:40Z",
+  "week": 10,
+  "updated_at": "2026-11-13T17:00:18Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -6862,12 +6862,12 @@
         }
       ],
       "pfr_id": "ChaiKL00",
-      "snaps": 46,
-      "pct": 61.0,
-      "avg_3wk": 68.3,
-      "season_avg": 68.2,
-      "delta": -10.0,
-      "trend": -1,
+      "snaps": 48,
+      "pct": 74.0,
+      "avg_3wk": 68.7,
+      "season_avg": 68.9,
+      "delta": 13.0,
+      "trend": 1,
       "history": [
         {
           "week": 1,
@@ -6948,6 +6948,16 @@
           "defense_pct": 61.0,
           "st_snaps": 4,
           "st_pct": 16.0
+        },
+        {
+          "week": 10,
+          "team": "WAS",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 48,
+          "defense_pct": 74.0,
+          "st_snaps": 0,
+          "st_pct": null
         }
       ]
     },
@@ -7952,11 +7962,11 @@
         }
       ],
       "pfr_id": "StylSo01",
-      "snaps": 73,
-      "pct": 97.0,
-      "avg_3wk": 93.7,
-      "season_avg": 92.8,
-      "delta": -2.0,
+      "snaps": 65,
+      "pct": 100.0,
+      "avg_3wk": 98.7,
+      "season_avg": 93.6,
+      "delta": 3.0,
       "trend": 0,
       "history": [
         {
@@ -8038,6 +8048,16 @@
           "defense_pct": 97.0,
           "st_snaps": 4,
           "st_pct": 16.0
+        },
+        {
+          "week": 10,
+          "team": "WAS",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 65,
+          "defense_pct": 100.0,
+          "st_snaps": 4,
+          "st_pct": 15.0
         }
       ]
     },
@@ -9052,12 +9072,12 @@
         }
       ],
       "pfr_id": "BurkTr00",
-      "snaps": 40,
-      "pct": 67.0,
-      "avg_3wk": 65.0,
-      "season_avg": 53.3,
-      "delta": 12.0,
-      "trend": 1,
+      "snaps": 42,
+      "pct": 61.0,
+      "avg_3wk": 61.0,
+      "season_avg": 54.4,
+      "delta": -6.0,
+      "trend": -1,
       "history": [
         {
           "week": 2,
@@ -9114,6 +9134,16 @@
           "team": "WAS",
           "offense_snaps": 40,
           "offense_pct": 67.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 10,
+          "team": "WAS",
+          "offense_snaps": 42,
+          "offense_pct": 61.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -9223,6 +9253,101 @@
           "defense_pct": null,
           "st_snaps": 11,
           "st_pct": 42.0
+        }
+      ]
+    },
+    {
+      "player_id": "14900",
+      "player": "Nnamdi Madubuike",
+      "position": "DT",
+      "unit": "IDP",
+      "team": "BAL",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "MaduJu00",
+      "snaps": 41,
+      "pct": 73.0,
+      "avg_3wk": 72.0,
+      "season_avg": 73.3,
+      "delta": 5.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 3,
+          "team": "BAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 47,
+          "defense_pct": 64.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 4,
+          "team": "BAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 46,
+          "defense_pct": 72.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 5,
+          "team": "BAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 53,
+          "defense_pct": 83.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 6,
+          "team": "BAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 49,
+          "defense_pct": 78.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 7,
+          "team": "BAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 40,
+          "defense_pct": 75.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 8,
+          "team": "BAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 56,
+          "defense_pct": 68.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 9,
+          "team": "BAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 41,
+          "defense_pct": 73.0,
+          "st_snaps": 0,
+          "st_pct": null
         }
       ]
     },
@@ -11720,11 +11845,11 @@
         }
       ],
       "pfr_id": "SkatCa00",
-      "snaps": 37,
-      "pct": 56.0,
-      "avg_3wk": 42.3,
-      "season_avg": 55.4,
-      "delta": 48.0,
+      "snaps": 58,
+      "pct": 89.0,
+      "avg_3wk": 51.0,
+      "season_avg": 59.6,
+      "delta": 33.0,
       "trend": 1,
       "history": [
         {
@@ -11792,6 +11917,16 @@
           "team": "NYG",
           "offense_snaps": 37,
           "offense_pct": 56.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 10,
+          "team": "NYG",
+          "offense_snaps": 58,
+          "offense_pct": 89.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
