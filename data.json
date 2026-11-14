@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 10,
-  "updated_at": "2026-11-13T17:00:18Z",
+  "updated_at": "2026-11-14T15:38:55Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -3780,11 +3780,16 @@
       "unit": "IDP",
       "team": "MIA",
       "leagues": [
-        "EGS PRO"
+        "EGS PRO",
+        "EGS SIM"
       ],
       "status": [
         {
           "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
           "status": "ROSTER"
         }
       ],
