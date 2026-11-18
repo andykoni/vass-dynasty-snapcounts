@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 10,
-  "updated_at": "2026-11-17T18:17:15Z",
+  "updated_at": "2026-11-18T17:53:03Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -4061,7 +4061,7 @@
         },
         {
           "league": "EGS SIM",
-          "status": "ROSTER"
+          "status": "INJURED_RESERVE"
         }
       ],
       "pfr_id": "PhilJo02",
@@ -10008,6 +10008,176 @@
       ]
     },
     {
+      "player_id": "15766",
+      "player": "Skyy Moore",
+      "position": "WR",
+      "unit": "Offense",
+      "team": "GB",
+      "leagues": [
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "MoorSk01",
+      "snaps": 0,
+      "pct": null,
+      "avg_3wk": 28.0,
+      "season_avg": 30.0,
+      "delta": null,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "GB",
+          "offense_snaps": 4,
+          "offense_pct": 6.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 11,
+          "st_pct": 35.0
+        },
+        {
+          "week": 2,
+          "team": "GB",
+          "offense_snaps": 21,
+          "offense_pct": 36.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 11,
+          "st_pct": 38.0
+        },
+        {
+          "week": 3,
+          "team": "GB",
+          "offense_snaps": 34,
+          "offense_pct": 52.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 9,
+          "st_pct": 36.0
+        },
+        {
+          "week": 4,
+          "team": "GB",
+          "offense_snaps": 23,
+          "offense_pct": 38.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 7,
+          "st_pct": 37.0
+        },
+        {
+          "week": 5,
+          "team": "GB",
+          "offense_snaps": 11,
+          "offense_pct": 18.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 1,
+          "st_pct": 4.0
+        },
+        {
+          "week": 10,
+          "team": "GB",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 3,
+          "st_pct": 12.0
+        }
+      ]
+    },
+    {
+      "player_id": "17137",
+      "player": "Derrick Harmon",
+      "position": "DT",
+      "unit": "IDP",
+      "team": "PIT",
+      "leagues": [
+        "EGS SIM",
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "INJURED_RESERVE"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "pfr_id": "HarmDe01",
+      "snaps": 27,
+      "pct": 41.0,
+      "avg_3wk": 30.3,
+      "season_avg": 37.8,
+      "delta": 33.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 1,
+          "team": "PIT",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 24,
+          "defense_pct": 40.0,
+          "st_snaps": 12,
+          "st_pct": 40.0
+        },
+        {
+          "week": 2,
+          "team": "PIT",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 32,
+          "defense_pct": 58.0,
+          "st_snaps": 7,
+          "st_pct": 28.0
+        },
+        {
+          "week": 3,
+          "team": "PIT",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 24,
+          "defense_pct": 42.0,
+          "st_snaps": 13,
+          "st_pct": 46.0
+        },
+        {
+          "week": 4,
+          "team": "PIT",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 5,
+          "defense_pct": 8.0,
+          "st_snaps": 3,
+          "st_pct": 11.0
+        },
+        {
+          "week": 10,
+          "team": "PIT",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 27,
+          "defense_pct": 41.0,
+          "st_snaps": 5,
+          "st_pct": 19.0
+        }
+      ]
+    },
+    {
       "player_id": "16215",
       "player": "Luke Musgrave",
       "position": "TE",
@@ -10151,91 +10321,6 @@
       ]
     },
     {
-      "player_id": "17137",
-      "player": "Derrick Harmon",
-      "position": "DT",
-      "unit": "IDP",
-      "team": "PIT",
-      "leagues": [
-        "EGS SIM",
-        "EGS SFX",
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "INJURED_RESERVE"
-        },
-        {
-          "league": "EGS SFX",
-          "status": "INJURED_RESERVE"
-        },
-        {
-          "league": "MLS Dynasty League",
-          "status": "INJURED_RESERVE"
-        }
-      ],
-      "pfr_id": "HarmDe01",
-      "snaps": 27,
-      "pct": 41.0,
-      "avg_3wk": 30.3,
-      "season_avg": 37.8,
-      "delta": 33.0,
-      "trend": 1,
-      "history": [
-        {
-          "week": 1,
-          "team": "PIT",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 24,
-          "defense_pct": 40.0,
-          "st_snaps": 12,
-          "st_pct": 40.0
-        },
-        {
-          "week": 2,
-          "team": "PIT",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 32,
-          "defense_pct": 58.0,
-          "st_snaps": 7,
-          "st_pct": 28.0
-        },
-        {
-          "week": 3,
-          "team": "PIT",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 24,
-          "defense_pct": 42.0,
-          "st_snaps": 13,
-          "st_pct": 46.0
-        },
-        {
-          "week": 4,
-          "team": "PIT",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 5,
-          "defense_pct": 8.0,
-          "st_snaps": 3,
-          "st_pct": 11.0
-        },
-        {
-          "week": 10,
-          "team": "PIT",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 27,
-          "defense_pct": 41.0,
-          "st_snaps": 5,
-          "st_pct": 19.0
-        }
-      ]
-    },
-    {
       "player_id": "14842",
       "player": "Michael Pittman",
       "position": "WR",
@@ -10287,91 +10372,6 @@
           "defense_pct": null,
           "st_snaps": 0,
           "st_pct": null
-        }
-      ]
-    },
-    {
-      "player_id": "15766",
-      "player": "Skyy Moore",
-      "position": "WR",
-      "unit": "Offense",
-      "team": "GB",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "INJURED_RESERVE"
-        }
-      ],
-      "pfr_id": "MoorSk01",
-      "snaps": 0,
-      "pct": null,
-      "avg_3wk": 28.0,
-      "season_avg": 30.0,
-      "delta": null,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "GB",
-          "offense_snaps": 4,
-          "offense_pct": 6.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 11,
-          "st_pct": 35.0
-        },
-        {
-          "week": 2,
-          "team": "GB",
-          "offense_snaps": 21,
-          "offense_pct": 36.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 11,
-          "st_pct": 38.0
-        },
-        {
-          "week": 3,
-          "team": "GB",
-          "offense_snaps": 34,
-          "offense_pct": 52.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 9,
-          "st_pct": 36.0
-        },
-        {
-          "week": 4,
-          "team": "GB",
-          "offense_snaps": 23,
-          "offense_pct": 38.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 7,
-          "st_pct": 37.0
-        },
-        {
-          "week": 5,
-          "team": "GB",
-          "offense_snaps": 11,
-          "offense_pct": 18.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 1,
-          "st_pct": 4.0
-        },
-        {
-          "week": 10,
-          "team": "GB",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 3,
-          "st_pct": 12.0
         }
       ]
     },
