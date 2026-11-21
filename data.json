@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 11,
-  "updated_at": "2026-11-20T17:38:22Z",
+  "updated_at": "2026-11-21T16:39:42Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -10285,7 +10285,7 @@
         },
         {
           "league": "EGS SFX",
-          "status": "INJURED_RESERVE"
+          "status": "ROSTER"
         },
         {
           "league": "MLS Dynasty League",
@@ -14521,6 +14521,136 @@
       ]
     },
     {
+      "player_id": "16705",
+      "player": "Calen Bullock",
+      "position": "S",
+      "unit": "IDP",
+      "team": "HOU",
+      "leagues": [
+        "EGS SFX",
+        "MLS Dynasty League"
+      ],
+      "status": [
+        {
+          "league": "EGS SFX",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "BullCa00",
+      "snaps": 50,
+      "pct": 100.0,
+      "avg_3wk": 98.0,
+      "season_avg": 97.7,
+      "delta": 0.0,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "HOU",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 56,
+          "defense_pct": 97.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "HOU",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 60,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "HOU",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 71,
+          "defense_pct": 100.0,
+          "st_snaps": 4,
+          "st_pct": 17.0
+        },
+        {
+          "week": 4,
+          "team": "HOU",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 75,
+          "defense_pct": 96.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 5,
+          "team": "HOU",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 63,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 6,
+          "team": "HOU",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 66,
+          "defense_pct": 93.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 7,
+          "team": "HOU",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 64,
+          "defense_pct": 97.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 9,
+          "team": "HOU",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 68,
+          "defense_pct": 94.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 10,
+          "team": "HOU",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 68,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 11,
+          "team": "HOU",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 50,
+          "defense_pct": 100.0,
+          "st_snaps": 0,
+          "st_pct": null
+        }
+      ]
+    },
+    {
       "player_id": "17119",
       "player": "Nic Scourton",
       "position": "DE",
@@ -16051,131 +16181,6 @@
           "defense_pct": 100.0,
           "st_snaps": 10,
           "st_pct": 36.0
-        }
-      ]
-    },
-    {
-      "player_id": "16705",
-      "player": "Calen Bullock",
-      "position": "S",
-      "unit": "IDP",
-      "team": "HOU",
-      "leagues": [
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "BullCa00",
-      "snaps": 50,
-      "pct": 100.0,
-      "avg_3wk": 98.0,
-      "season_avg": 97.7,
-      "delta": 0.0,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "HOU",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 56,
-          "defense_pct": 97.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "HOU",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 60,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "HOU",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 71,
-          "defense_pct": 100.0,
-          "st_snaps": 4,
-          "st_pct": 17.0
-        },
-        {
-          "week": 4,
-          "team": "HOU",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 75,
-          "defense_pct": 96.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 5,
-          "team": "HOU",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 63,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 6,
-          "team": "HOU",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 66,
-          "defense_pct": 93.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 7,
-          "team": "HOU",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 64,
-          "defense_pct": 97.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 9,
-          "team": "HOU",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 68,
-          "defense_pct": 94.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 10,
-          "team": "HOU",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 68,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 11,
-          "team": "HOU",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 50,
-          "defense_pct": 100.0,
-          "st_snaps": 0,
-          "st_pct": null
         }
       ]
     },
