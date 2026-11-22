@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 11,
-  "updated_at": "2026-11-21T16:39:42Z",
+  "updated_at": "2026-11-22T16:57:29Z",
   "status": "Live data",
   "leagues": [
     "EGS PRO",
@@ -4186,6 +4186,136 @@
           "defense_pct": 36.0,
           "st_snaps": 16,
           "st_pct": 67.0
+        }
+      ]
+    },
+    {
+      "player_id": "15985",
+      "player": "Markquese Bell",
+      "position": "S",
+      "unit": "IDP",
+      "team": "DAL",
+      "leagues": [
+        "EGS PRO",
+        "EGS SIM"
+      ],
+      "status": [
+        {
+          "league": "EGS PRO",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        }
+      ],
+      "pfr_id": "BellMa01",
+      "snaps": 42,
+      "pct": 65.0,
+      "avg_3wk": 26.0,
+      "season_avg": 43.7,
+      "delta": 56.0,
+      "trend": 1,
+      "history": [
+        {
+          "week": 1,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 16,
+          "st_pct": 84.0
+        },
+        {
+          "week": 2,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 57,
+          "defense_pct": 80.0,
+          "st_snaps": 10,
+          "st_pct": 37.0
+        },
+        {
+          "week": 3,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 44,
+          "defense_pct": 69.0,
+          "st_snaps": 6,
+          "st_pct": 20.0
+        },
+        {
+          "week": 4,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 10,
+          "defense_pct": 18.0,
+          "st_snaps": 25,
+          "st_pct": 76.0
+        },
+        {
+          "week": 5,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 24,
+          "defense_pct": 33.0,
+          "st_snaps": 19,
+          "st_pct": 86.0
+        },
+        {
+          "week": 6,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 59,
+          "defense_pct": 79.0,
+          "st_snaps": 14,
+          "st_pct": 67.0
+        },
+        {
+          "week": 7,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 24,
+          "defense_pct": 36.0,
+          "st_snaps": 15,
+          "st_pct": 60.0
+        },
+        {
+          "week": 8,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 3,
+          "defense_pct": 4.0,
+          "st_snaps": 28,
+          "st_pct": 80.0
+        },
+        {
+          "week": 9,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 6,
+          "defense_pct": 9.0,
+          "st_snaps": 27,
+          "st_pct": 79.0
+        },
+        {
+          "week": 10,
+          "team": "DAL",
+          "offense_snaps": 0,
+          "offense_pct": null,
+          "defense_snaps": 42,
+          "defense_pct": 65.0,
+          "st_snaps": 18,
+          "st_pct": 55.0
         }
       ]
     },
@@ -9383,131 +9513,6 @@
       ]
     },
     {
-      "player_id": "15985",
-      "player": "Markquese Bell",
-      "position": "S",
-      "unit": "IDP",
-      "team": "DAL",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "BellMa01",
-      "snaps": 42,
-      "pct": 65.0,
-      "avg_3wk": 26.0,
-      "season_avg": 43.7,
-      "delta": 56.0,
-      "trend": 1,
-      "history": [
-        {
-          "week": 1,
-          "team": "DAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 16,
-          "st_pct": 84.0
-        },
-        {
-          "week": 2,
-          "team": "DAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 57,
-          "defense_pct": 80.0,
-          "st_snaps": 10,
-          "st_pct": 37.0
-        },
-        {
-          "week": 3,
-          "team": "DAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 44,
-          "defense_pct": 69.0,
-          "st_snaps": 6,
-          "st_pct": 20.0
-        },
-        {
-          "week": 4,
-          "team": "DAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 10,
-          "defense_pct": 18.0,
-          "st_snaps": 25,
-          "st_pct": 76.0
-        },
-        {
-          "week": 5,
-          "team": "DAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 24,
-          "defense_pct": 33.0,
-          "st_snaps": 19,
-          "st_pct": 86.0
-        },
-        {
-          "week": 6,
-          "team": "DAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 59,
-          "defense_pct": 79.0,
-          "st_snaps": 14,
-          "st_pct": 67.0
-        },
-        {
-          "week": 7,
-          "team": "DAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 24,
-          "defense_pct": 36.0,
-          "st_snaps": 15,
-          "st_pct": 60.0
-        },
-        {
-          "week": 8,
-          "team": "DAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 3,
-          "defense_pct": 4.0,
-          "st_snaps": 28,
-          "st_pct": 80.0
-        },
-        {
-          "week": 9,
-          "team": "DAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 6,
-          "defense_pct": 9.0,
-          "st_snaps": 27,
-          "st_pct": 79.0
-        },
-        {
-          "week": 10,
-          "team": "DAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 42,
-          "defense_pct": 65.0,
-          "st_snaps": 18,
-          "st_pct": 55.0
-        }
-      ]
-    },
-    {
       "player_id": "17146",
       "player": "Tyleik Williams",
       "position": "DT",
@@ -10078,111 +10083,6 @@
       ]
     },
     {
-      "player_id": "14900",
-      "player": "Nnamdi Madubuike",
-      "position": "DT",
-      "unit": "IDP",
-      "team": "BAL",
-      "leagues": [
-        "EGS SIM"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "MaduJu00",
-      "snaps": 28,
-      "pct": 49.0,
-      "avg_3wk": 63.3,
-      "season_avg": 70.2,
-      "delta": -24.0,
-      "trend": -1,
-      "history": [
-        {
-          "week": 3,
-          "team": "BAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 47,
-          "defense_pct": 64.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 4,
-          "team": "BAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 46,
-          "defense_pct": 72.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 5,
-          "team": "BAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 53,
-          "defense_pct": 83.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 6,
-          "team": "BAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 49,
-          "defense_pct": 78.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 7,
-          "team": "BAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 40,
-          "defense_pct": 75.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 8,
-          "team": "BAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 56,
-          "defense_pct": 68.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 9,
-          "team": "BAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 41,
-          "defense_pct": 73.0,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 10,
-          "team": "BAL",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 28,
-          "defense_pct": 49.0,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
-    },
-    {
       "player_id": "15766",
       "player": "Skyy Moore",
       "position": "WR",
@@ -10359,11 +10259,16 @@
       "unit": "IDP",
       "team": "MIN",
       "leagues": [
-        "EGS SIM"
+        "EGS SIM",
+        "MLS Dynasty League"
       ],
       "status": [
         {
           "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "MLS Dynasty League",
           "status": "ROSTER"
         }
       ],
@@ -10394,6 +10299,86 @@
           "defense_pct": 38.0,
           "st_snaps": 8,
           "st_pct": 31.0
+        }
+      ]
+    },
+    {
+      "player_id": "16629",
+      "player": "Roman Wilson",
+      "position": "WR",
+      "unit": "Offense",
+      "team": "PIT",
+      "leagues": [
+        "EGS SIM",
+        "EGS SFX"
+      ],
+      "status": [
+        {
+          "league": "EGS SIM",
+          "status": "ROSTER"
+        },
+        {
+          "league": "EGS SFX",
+          "status": "INJURED_RESERVE"
+        }
+      ],
+      "pfr_id": "WilsRo02",
+      "snaps": 20,
+      "pct": 33.0,
+      "avg_3wk": 34.3,
+      "season_avg": 47.4,
+      "delta": 2.0,
+      "trend": 0,
+      "history": [
+        {
+          "week": 1,
+          "team": "PIT",
+          "offense_snaps": 37,
+          "offense_pct": 55.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 2,
+          "team": "PIT",
+          "offense_snaps": 55,
+          "offense_pct": 79.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 3,
+          "team": "PIT",
+          "offense_snaps": 24,
+          "offense_pct": 39.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 4,
+          "team": "PIT",
+          "offense_snaps": 22,
+          "offense_pct": 31.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
+        },
+        {
+          "week": 5,
+          "team": "PIT",
+          "offense_snaps": 20,
+          "offense_pct": 33.0,
+          "defense_snaps": 0,
+          "defense_pct": null,
+          "st_snaps": 0,
+          "st_pct": null
         }
       ]
     },
@@ -10588,86 +10573,6 @@
           "team": "PIT",
           "offense_snaps": 52,
           "offense_pct": 72.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        }
-      ]
-    },
-    {
-      "player_id": "16629",
-      "player": "Roman Wilson",
-      "position": "WR",
-      "unit": "Offense",
-      "team": "PIT",
-      "leagues": [
-        "EGS SIM",
-        "EGS SFX"
-      ],
-      "status": [
-        {
-          "league": "EGS SIM",
-          "status": "INJURED_RESERVE"
-        },
-        {
-          "league": "EGS SFX",
-          "status": "INJURED_RESERVE"
-        }
-      ],
-      "pfr_id": "WilsRo02",
-      "snaps": 20,
-      "pct": 33.0,
-      "avg_3wk": 34.3,
-      "season_avg": 47.4,
-      "delta": 2.0,
-      "trend": 0,
-      "history": [
-        {
-          "week": 1,
-          "team": "PIT",
-          "offense_snaps": 37,
-          "offense_pct": 55.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 2,
-          "team": "PIT",
-          "offense_snaps": 55,
-          "offense_pct": 79.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 3,
-          "team": "PIT",
-          "offense_snaps": 24,
-          "offense_pct": 39.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 4,
-          "team": "PIT",
-          "offense_snaps": 22,
-          "offense_pct": 31.0,
-          "defense_snaps": 0,
-          "defense_pct": null,
-          "st_snaps": 0,
-          "st_pct": null
-        },
-        {
-          "week": 5,
-          "team": "PIT",
-          "offense_snaps": 20,
-          "offense_pct": 33.0,
           "defense_snaps": 0,
           "defense_pct": null,
           "st_snaps": 0,
@@ -16421,121 +16326,6 @@
           "defense_pct": null,
           "st_snaps": 6,
           "st_pct": 21.0
-        }
-      ]
-    },
-    {
-      "player_id": "16262",
-      "player": "Keion White",
-      "position": "DE",
-      "unit": "IDP",
-      "team": "SF",
-      "leagues": [
-        "MLS Dynasty League"
-      ],
-      "status": [
-        {
-          "league": "MLS Dynasty League",
-          "status": "ROSTER"
-        }
-      ],
-      "pfr_id": "WhitKe03",
-      "snaps": 43,
-      "pct": 52.0,
-      "avg_3wk": 49.3,
-      "season_avg": 59.7,
-      "delta": 10.0,
-      "trend": 1,
-      "history": [
-        {
-          "week": 1,
-          "team": "SF",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 30,
-          "defense_pct": 49.0,
-          "st_snaps": 2,
-          "st_pct": 10.0
-        },
-        {
-          "week": 2,
-          "team": "SF",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 32,
-          "defense_pct": 54.0,
-          "st_snaps": 4,
-          "st_pct": 16.0
-        },
-        {
-          "week": 3,
-          "team": "SF",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 60,
-          "defense_pct": 69.0,
-          "st_snaps": 7,
-          "st_pct": 22.0
-        },
-        {
-          "week": 4,
-          "team": "SF",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 49,
-          "defense_pct": 74.0,
-          "st_snaps": 4,
-          "st_pct": 15.0
-        },
-        {
-          "week": 5,
-          "team": "SF",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 43,
-          "defense_pct": 68.0,
-          "st_snaps": 8,
-          "st_pct": 24.0
-        },
-        {
-          "week": 6,
-          "team": "SF",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 50,
-          "defense_pct": 75.0,
-          "st_snaps": 3,
-          "st_pct": 13.0
-        },
-        {
-          "week": 7,
-          "team": "SF",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 37,
-          "defense_pct": 54.0,
-          "st_snaps": 6,
-          "st_pct": 26.0
-        },
-        {
-          "week": 9,
-          "team": "SF",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 21,
-          "defense_pct": 42.0,
-          "st_snaps": 3,
-          "st_pct": 14.0
-        },
-        {
-          "week": 10,
-          "team": "SF",
-          "offense_snaps": 0,
-          "offense_pct": null,
-          "defense_snaps": 43,
-          "defense_pct": 52.0,
-          "st_snaps": 5,
-          "st_pct": 15.0
         }
       ]
     },
